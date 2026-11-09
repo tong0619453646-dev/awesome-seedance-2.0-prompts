@@ -33,7 +33,7 @@
 
 作者 [@AIwithJessica](https://x.com/AIwithJessica) · 30 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-01#drama-01)** · [原帖](https://x.com/AIwithJessica/status/2088855031864832096)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-01#drama-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-01.webp" width="560" alt="三个女孩假装 DJ 的夜晚 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/8c3e34e7-f90a-4287-8766-0cc5c574401b
 
 **提示词:**
 
@@ -60,7 +60,7 @@ https://thankyouai.com/i/70WOYR
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 28 秒 · 21:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-02#drama-02)** · [原帖](https://x.com/Aiwithmaha/status/2112012480860000276)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-02#drama-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-02.webp" width="560" alt="昏暗走廊里黑白着装的两个女人 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/fa0dc1c0-49a8-480d-a228-c9ac0518ba3e
 
 **提示词:**
 
@@ -73,7 +73,7 @@ Create a 28-second ultra-realistic cinematic Korean drama featuring two beautifu
 
 作者 [@Caden_Flux](https://x.com/Caden_Flux) · 15 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-03#drama-03)** · [原帖](https://x.com/Caden_Flux/status/2105228156085137501)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-03#drama-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-03.webp" width="560" alt="落跑新娘开红色老爷车逃婚 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/fd739675-64d5-429e-ae04-ca5c0ff8db50
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -107,7 +107,7 @@ Important: No slow motion, no sad mood, no dramatic romance, no dialogue, no tex
 
 作者 [@Weeleey6](https://x.com/Weeleey6) · 15 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-04#drama-04)** · [原帖](https://x.com/Weeleey6/status/2095902275898126648)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-04#drama-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-04.webp" width="560" alt="雨夜路灯下谁也不想说的告别 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e556df6b-7916-40fc-958a-fe80905394bb
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -137,7 +137,7 @@ RULES: References are appearance only, do not recreate. Keep both characters con
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 30 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-05#drama-05)** · [原帖](https://x.com/Lianaalane/status/2109876446089134244)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-05#drama-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-05.webp" width="560" alt="受伤舞者独坐练功房角落 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/3b07c12a-2c13-4400-8b01-c9e7ac1b46bc
 
 **提示词:**
 
@@ -150,7 +150,7 @@ Create a 30-second, ultra-realistic cinematic video featuring a beautiful young 
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 24 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-06#drama-06)** · [原帖](https://x.com/Aiwithmaha/status/2110206983999726004)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-06#drama-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-06.webp" width="560" alt="韩国上班族疲惫的一天 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d4933dda-fc1f-41ee-b755-76452aeb03e2
 
 **提示词:**
 
@@ -163,7 +163,7 @@ Create a 24-second ultra-realistic cinematic video of a young Korean office woma
 
 作者 [@aiwithaayat](https://x.com/aiwithaayat) · 15 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-07#drama-07)** · [原帖](https://x.com/aiwithaayat/status/2102607673501892691)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-07#drama-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-07.webp" width="560" alt="海边小镇的一眼心动 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/3d2363e7-1705-4ce7-b9d5-2022f44c342d
 
 **提示词:**
 

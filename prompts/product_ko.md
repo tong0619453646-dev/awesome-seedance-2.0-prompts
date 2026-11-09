@@ -47,7 +47,7 @@
 
 작성자 [@juliaevee](https://x.com/juliaevee) · 15초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-01#product-01)** · [원본 게시물](https://x.com/juliaevee/status/2092783528887083290)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-01#product-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-01.webp" width="320" alt="보석 전갈이 하이힐로 변신 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4afee007-7952-4900-9a74-51379a77a4f0
 
 **프롬프트:**
 
@@ -60,7 +60,7 @@ A close-up vertical shot in 4K resolution depicting a magical transformation. A 
 
 작성자 [@Caden_Flux](https://x.com/Caden_Flux) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-02#product-02)** · [원본 게시물](https://x.com/Caden_Flux/status/2103788406392213575)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-02#product-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-02.webp" width="560" alt="머그샷 콘셉트 패션 화보 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/195ba2d4-7218-4157-befd-a145bf199044
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -160,7 +160,7 @@ Overall feeling: playful troublemaker + luxury fashion campaign + cinematic mugs
 
 작성자 [@IsabellaHan_](https://x.com/IsabellaHan_) · 15초 · 3:4 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-03#product-03)** · [원본 게시물](https://x.com/IsabellaHan_/status/2081055849556877749)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-03#product-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-03.webp" width="320" alt="고무 오리와 함께하는 스킨케어 브이로그 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/63c3c5ae-b484-44fb-a2a5-e11a141d4f96
 
 **프롬프트:**
 
@@ -195,7 +195,7 @@ Cinematic vertical 9:16 beauty vlog style, 4k resolution, ultra-realistic textur
 
 작성자 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-04#product-04)** · [원본 게시물](https://x.com/ayzalnooor24521/status/2100456445900710158)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-04#product-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-04.webp" width="560" alt="파리 거리의 빨간 드레스 변신 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/bbc12f22-9798-4ae6-a663-a9d5cb3d5686
 
 **프롬프트:**
 
@@ -208,7 +208,7 @@ Created a cinematic fashion transformation video featuring a beautiful young wom
 
 작성자 [@Aiwithmaha](https://x.com/Aiwithmaha) · 15초 · 3:4 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-05#product-05)** · [원본 게시물](https://x.com/Aiwithmaha/status/2101138386132386252)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-05#product-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-05.webp" width="320" alt="햇살 속 스킨케어 루틴 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/2d39dcfe-87de-422f-9c44-9e540ad2f020
 
 **프롬프트:**
 
@@ -221,7 +221,7 @@ Create a 15-second photorealistic skincare video featuring a young Korean woman 
 
 작성자 [@Just_sharon7](https://x.com/Just_sharon7) · 9초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-06#product-06)** · [원본 게시물](https://x.com/Just_sharon7/status/2093171913698988151)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-06#product-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-06.webp" width="560" alt="픽셀 필드를 지나는 연속 환복 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9208ed04-252b-4175-81e1-bfdbdd4674d1
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -830,7 +830,7 @@ THE PERSON NEVER CHANGES.
 
 작성자 [@RuzainaMeer](https://x.com/RuzainaMeer) · 12초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-07#product-07)** · [원본 게시물](https://x.com/RuzainaMeer/status/2079141591449739775)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-07#product-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-07.webp" width="560" alt="카툰 고양이가 나오는 UGC 스테이크 광고 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/7ff0b27a-7834-4f61-8dcc-fc5d6dfc93bc
 
 **프롬프트:**
 
@@ -843,7 +843,7 @@ A highly realistic 12-second vertical UGC-style commercial filmed on a smartphon
 
 작성자 [@Lianaalane](https://x.com/Lianaalane) · 28초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-08#product-08)** · [원본 게시물](https://x.com/Lianaalane/status/2109148182873845918)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-08#product-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-08.webp" width="320" alt="럭셔리 피부과 페이셜 관리 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/67720663-89df-486a-9465-4b04dfa7b0c0
 
 **프롬프트:**
 
@@ -868,7 +868,7 @@ Maintain consistent facial identity, hairstyle, body proportions, and clothing t
 
 작성자 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 30초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-09#product-09)** · [원본 게시물](https://x.com/ayzalnooor24521/status/2097194787564658942)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-09#product-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-09.webp" width="320" alt="아침 햇살 속 블루 젬스톤 목걸이 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0e609f39-daa7-45df-9252-4a3b678e39c1
 
 **프롬프트:**
 
@@ -890,7 +890,7 @@ Soft cinematic lighting, warm golden tones, luxury commercial aesthetic, smooth 
 
 작성자 [@Lianaalane](https://x.com/Lianaalane) · 15초 · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-10#product-10)** · [원본 게시물](https://x.com/Lianaalane/status/2091392675912221176)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-10#product-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-10.webp" width="560" alt="에어프라이어로 치킨과 감자튀김 한 번에 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e4cdc516-f902-4929-b84f-248706e9d6c8
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -935,7 +935,7 @@ Important: Keep the air fryer design consistent with the reference. Do not chang
 
 작성자 [@Zyrellix](https://x.com/Zyrellix) · 15초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-11#product-11)** · [원본 게시물](https://x.com/Zyrellix/status/2091393149805756450)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-11#product-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-11.webp" width="320" alt="어두운 반사면 위 세럼 광고 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/2f81bd21-6a21-4e5b-886b-9680f238f433
 
 **프롬프트:**
 
@@ -950,7 +950,7 @@ Shot at 60fps slow motion, smooth cinematic camera pans, dramatic rim lighting, 
 
 작성자 [@Aiwithmaha](https://x.com/Aiwithmaha) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-12#product-12)** · [원본 게시물](https://x.com/Aiwithmaha/status/2101887507059351894)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-12#product-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-12.webp" width="560" alt="물과 흰 꽃에 둘러싸인 크림 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/54fbf449-afc5-494f-b189-3569c012bf0b
 
 **프롬프트:**
 
@@ -963,7 +963,7 @@ Create a 15-second ultra-realistic luxury skincare commercial featuring an elega
 
 작성자 [@Aiwithmaha](https://x.com/Aiwithmaha) · 10초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-13#product-13)** · [원본 게시물](https://x.com/Aiwithmaha/status/2102952087823044888)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-13#product-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-13.webp" width="320" alt="핑크 립글로스 언박싱과 발색 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/17535937-1bf6-4901-a4e2-4d7d654f0017
 
 **프롬프트:**
 
@@ -976,7 +976,7 @@ Create a realistic 10-second vertical beauty product video showing hands opening
 
 작성자 [@Lianaalane](https://x.com/Lianaalane) · 16초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-14#product-14)** · [원본 게시물](https://x.com/Lianaalane/status/2093553083104350554)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-14#product-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-14.webp" width="320" alt="아침 근력 운동 헬스장 광고 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a8fe537a-eb7e-4f1c-ab72-8b9a0f4d8289
 
 **프롬프트:**
 
@@ -989,7 +989,7 @@ Create a 15-second ultra-realistic  morning gym advertisement featuring the same
 
 작성자 [@olivajaneAI](https://x.com/olivajaneAI) · 8초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-15#product-15)** · [원본 게시물](https://x.com/olivajaneAI/status/2113142343675297826)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-15#product-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-15.webp" width="560" alt="8초 향신료 광고 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/2a7247d1-9ffd-4915-93da-f81d6fc8a7f9
 
 **프롬프트:**
 
@@ -1031,7 +1031,7 @@ No people. No kitchen. No utensils. Only premium ingredients, luxury food-commer
 
 작성자 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-16#product-16)** · [원본 게시물](https://x.com/Goodmanprotocol/status/2078490755958780363)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-16#product-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-16.webp" width="560" alt="무선 이어폰 리뷰 영상 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/51b8ede9-366b-4117-975a-1f988b951c95
 
 **프롬프트:**
 
@@ -1044,7 +1044,7 @@ A young creator walks into a bright living room holding a pair of sleek wireless
 
 작성자 [@Diplomeme](https://x.com/Diplomeme) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-17#product-17)** · [원본 게시물](https://x.com/Diplomeme/status/2079455816772649210)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-17#product-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-17.webp" width="560" alt="자수 드레스 UGC 패션 광고 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4cf0e14b-9b6a-473b-9271-e74f37488e26
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -1086,7 +1086,7 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 작성자 [@AIwithMinal](https://x.com/AIwithMinal) · 17초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-18#product-18)** · [원본 게시물](https://x.com/AIwithMinal/status/2114590512208638086)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-18#product-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-18.webp" width="560" alt="골든아워 도시를 달리는 럭셔리카 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/dbe6ac57-b34c-4629-ab80-69c26b202c14
 
 **프롬프트:**
 
@@ -1099,7 +1099,7 @@ Create a cinematic luxury car video featuring a sleek, premium vehicle cruising 
 
 작성자 [@ZarnishNael](https://x.com/ZarnishNael) · 10초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-19#product-19)** · [원본 게시물](https://x.com/ZarnishNael/status/2118559810035593407)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-19#product-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-19.webp" width="320" alt="미래형 스니커즈 분해 뷰 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e5797e41-2d04-4702-acc1-07e905191934
 
 **프롬프트:**
 
@@ -1115,7 +1115,7 @@ Next, show hands assembling the sneaker layer by layer with precise mechanical m
 
 작성자 [@thesocialalpha_](https://x.com/thesocialalpha_) · 6초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-20#product-20)** · [원본 게시물](https://x.com/thesocialalpha_/status/2073075642996777159)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-20#product-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-20.webp" width="560" alt="페이퍼컷 스타일 향수 쇼케이스 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/62f3ed2b-9ede-4eb7-a151-88a98d311fb1
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -1139,7 +1139,7 @@ Constraints: no new text, no misspellings, no duplicated labels, no warped produ
 
 작성자 [@KrevixAi](https://x.com/KrevixAi) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-21#product-21)** · [원본 게시물](https://x.com/KrevixAi/status/2080960631180570913)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-21#product-21"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-21.webp" width="560" alt="럭셔리 살롱 메이크오버 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/74a7dd5a-00df-41d6-9495-c36b201d5754
 
 **프롬프트:**
 

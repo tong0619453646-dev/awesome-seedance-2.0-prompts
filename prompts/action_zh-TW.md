@@ -51,7 +51,7 @@
 
 作者 [@CoffeeVectors](https://x.com/CoffeeVectors) · 14 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-01#action-01)** · [原帖](https://x.com/CoffeeVectors/status/2021713445855355226)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-01#action-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-01.webp" width="560" alt="抱著金幣袋衝下甲板跳海 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/78d301a8-0798-4c99-846e-a0860916835a
 
 **提示詞:**
 
@@ -65,7 +65,7 @@ camera follow him underwater.
 
 作者 [@mimu_ai1](https://x.com/mimu_ai1) · 10 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-02#action-02)** · [原帖](https://x.com/mimu_ai1/status/2091215411341930633)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-02#action-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-02.webp" width="560" alt="珠寶店裡的武打戲 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/42027033-7a36-4323-8ee4-32092c469add
 
 **提示詞:**
 
@@ -78,7 +78,7 @@ A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. 
 
 作者 [@Just_sharon7](https://x.com/Just_sharon7) · 17 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-03#action-03)** · [原帖](https://x.com/Just_sharon7/status/2091546827212636576)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-03#action-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-03.webp" width="560" alt="機車壓彎穿越山路 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4216ad2d-c422-4f49-af02-c2b2126442f9
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -160,7 +160,7 @@ Premium AAA quality, photorealistic cinematic rendering, pure speed and freedom 
 
 作者 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 20 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-04#action-04)** · [原帖](https://x.com/ayzalnooor24521/status/2099725642736845113)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-04#action-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-04.webp" width="560" alt="捷運站裡破柱而出的女打星 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6c24b3fa-f030-4620-9548-bec44e6d9a19
 
 **提示詞:**
 
@@ -173,7 +173,7 @@ Created a 20-second cinematic video in a realistic Korean action-drama style, fe
 
 作者 [@Zyrellix](https://x.com/Zyrellix) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-05#action-05)** · [原帖](https://x.com/Zyrellix/status/2092828997662978051)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-05#action-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-05.webp" width="560" alt="龍騎士劈向裝甲巨人 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/8e985058-f24d-4410-8d02-f4b6ba16660d
 
 **提示詞:**
 
@@ -186,7 +186,7 @@ A low-angle dynamic action tracking shot in a apocalyptic, ruined city modern ur
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 32 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-06#action-06)** · [原帖](https://x.com/Aiwithmaha/status/2104390191352103147)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-06#action-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-06.webp" width="560" alt="機械翼女戰士大戰巨獸 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9b312fb3-bb15-4d21-bf56-b7194554cf60
 
 **提示詞:**
 
@@ -199,7 +199,7 @@ Create a 31-second ultra-realistic cinematic action sequence set in a destroyed 
 
 作者 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 30 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-07#action-07)** · [原帖](https://x.com/ayzalnooor24521/status/2113128549930729895)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-07#action-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-07.webp" width="320" alt="白衣人在湖上高樁間騰躍 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f658cf37-3b69-4745-9a2f-f40a82b1590f
 
 **提示詞:**
 
@@ -212,7 +212,7 @@ Create it 30-second video featuring a breathtaking cinematic acrobatic performan
 
 作者 [@AIwithMinal](https://x.com/AIwithMinal) · 30 秒 · 21:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-08#action-08)** · [原帖](https://x.com/AIwithMinal/status/2100444829880914240)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-08#action-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-08.webp" width="560" alt="韓式庭院裡的女武者 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c38ab3f5-6730-427a-9c86-f2a8c1a545ef
 
 **提示詞:**
 
@@ -225,7 +225,7 @@ Ultra-realistic cinematic scene of a fierce young woman standing confidently in 
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 20 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-09#action-09)** · [原帖](https://x.com/Aiwithmaha/status/2111646777187450940)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-09#action-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-09.webp" width="560" alt="動物園拍照時獅子撲來 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c143db0f-79ab-430f-8ca8-794450782abb
 
 **提示詞:**
 
@@ -238,7 +238,7 @@ Create a 20-second cinematic, ultra-realistic AI video featuring a young Korean 
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 46 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-10#action-10)** · [原帖](https://x.com/Aiwithmaha/status/2108380075796418791)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-10#action-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-10.webp" width="560" alt="巨龍追著女子穿過貨櫃碼頭 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1694a14b-903f-42f0-a1dc-0533efef940f
 
 **提示詞:**
 
@@ -251,7 +251,7 @@ Create a 45-second ultra-realistic cinematic action video set in a large shippin
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 30 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-11#action-11)** · [原帖](https://x.com/Lianaalane/status/2100088243492385019)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-11#action-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-11.webp" width="560" alt="雨夜街頭的扭打與追逐 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1c245bcb-9a73-4428-bf53-667277455061
 
 **提示詞:**
 
@@ -264,7 +264,7 @@ Create a 30-second cinematic, ultra-realistic live-action video set on a rainy c
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 28 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-12#action-12)** · [原帖](https://x.com/Aiwithmaha/status/2112389039341113538)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-12#action-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-12.webp" width="560" alt="手持步槍逃出戰火中的城市 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e7a96064-08c4-454b-a4ff-635fef8c8b55
 
 **提示詞:**
 
@@ -286,7 +286,7 @@ Avoid cartoon effects, distorted anatomy, extra fingers, flickering, unwanted te
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-13#action-13)** · [原帖](https://x.com/Aiwithmaha/status/2106938584431526162)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-13#action-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-13.webp" width="560" alt="老虎戰士在燃燒的廢墟中激戰 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/75aec55f-a090-45c6-8d77-da6bdc92d085
 
 **提示詞:**
 
@@ -299,7 +299,7 @@ Create a cinematic 14.6-second action scene featuring a powerful anthropomorphic
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 50 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-14#action-14)** · [原帖](https://x.com/Aiwithmaha/status/2102260032348078455)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-14#action-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-14.webp" width="560" alt="穿韓服奔過古代市集 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d4761735-6181-4be3-9d16-df7429eb9973
 
 **提示詞:**
 
@@ -312,7 +312,7 @@ Created a beautiful Korean girl walking confidently through a traditional Korean
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-15#action-15)** · [原帖](https://x.com/Aiwithmaha/status/2109137173224337478)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-15#action-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-15.webp" width="560" alt="銀髮女戰士持火焰長矛衝鋒 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6380d81e-f102-4e43-9d1c-d364bc516894
 
 **提示詞:**
 
@@ -325,7 +325,7 @@ Created a 15-second ultra-realistic cinematic fantasy action video featuring a p
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 30 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-16#action-16)** · [原帖](https://x.com/Aiwithmaha/status/2105162931847807476)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-16#action-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-16.webp" width="560" alt="紅衣女劍客夜戰古村 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ea1ce8ad-146c-4c0d-8e8e-af3a74e01316
 
 **提示詞:**
 
@@ -338,7 +338,7 @@ Create a 30-second cinematic, ultra-realistic wuxia-style video set at night in 
 
 作者 [@Weeleey6](https://x.com/Weeleey6) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-17#action-17)** · [原帖](https://x.com/Weeleey6/status/2089244905960821226)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-17#action-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-17.webp" width="560" alt="一鏡到底的戰機迎擊海怪 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e406c624-375b-4b0e-907e-97fc24d62dbc
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -372,7 +372,7 @@ RULES: References are appearance only, do not recreate. The monster is a stylize
 
 作者 [@yourPlugAI](https://x.com/yourPlugAI) · 30 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-18#action-18)** · [原帖](https://x.com/yourPlugAI/status/2089009512854200745)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-18#action-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-18.webp" width="560" alt="黃金時刻澀谷路口近身格鬥 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4bb8eb3d-5558-4f7c-b03a-5198dbeb46a1
 
 **提示詞:**
 
@@ -430,7 +430,7 @@ Flow: rapid circular redirects (Tai Chi) into lightning-fast hard strikes (Muay 
 
 作者 [@yudotanaka](https://x.com/yudotanaka) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-19#action-19)** · [原帖](https://x.com/yudotanaka/status/2079900274064490842)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-19#action-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-19.webp" width="560" alt="用 YAML 寫的跑酷鏡頭 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ca98c1bf-d7c7-4b3f-be7e-a06d6a2198a3
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -584,7 +584,7 @@ output_rules:
 
 作者 [@luxaios](https://x.com/luxaios) · 9 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-20#action-20)** · [原帖](https://x.com/luxaios/status/2080628740955218120)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-20#action-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-20.webp" width="320" alt="7 秒賽博龐克刀戰 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/35c42e66-11c3-49e9-bd2a-1c03923988aa
 
 **提示詞:**
 
@@ -625,7 +625,7 @@ Negative prompt: blood, gore, wounds, severed limbs, visible injury, slow clumsy
 
 作者 [@DanaGreenAI](https://x.com/DanaGreenAI) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-21#action-21)** · [原帖](https://x.com/DanaGreenAI/status/2022060390411383290)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-21#action-21"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-21.webp" width="560" alt="分開的海牆間車隊突圍 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1d1affea-8ca6-4937-b9eb-6ba7e49bbe3f
 
 **提示詞:**
 
@@ -638,7 +638,7 @@ A multi shot high action epic video about exodus story in the style of mad max
 
 作者 [@AIwithMinal](https://x.com/AIwithMinal) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-22#action-22)** · [原帖](https://x.com/AIwithMinal/status/2113849008812872170)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-22#action-22"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-22.webp" width="560" alt="韓服女戰士夜巷決鬥 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0d64047c-0bc6-470d-b113-8ffbcf5dd75e
 
 **提示詞:**
 
@@ -651,7 +651,7 @@ Create a cinematic, ultra-realistic video of a fearless warrior with intense eye
 
 作者 [@AIVideoDotCom](https://x.com/AIVideoDotCom) · 7 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-23#action-23)** · [原帖](https://x.com/AIVideoDotCom/status/2021708002286501951)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-23#action-23"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-23.webp" width="560" alt="手持環繞兩名拳手對練 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1e488500-39a7-4685-9ef7-33c202fc69ab
 
 **提示詞:**
 
@@ -668,7 +668,7 @@ movement: smooth parallax, consistent objects, stable faces; no text
 
 作者 [@pewdenai](https://x.com/pewdenai) · 20 秒 · 21:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-24#action-24)** · [原帖](https://x.com/pewdenai/status/2021648907915411795)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-24#action-24"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-24.webp" width="560" alt="二戰機車突圍 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/eae68ca2-80ec-4625-a8ef-5523227649ad
 
 **提示詞:**
 
@@ -681,7 +681,7 @@ Create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 
 作者 [@hckinz](https://x.com/hckinz) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-25#action-25)** · [原帖](https://x.com/hckinz/status/2022062799732777214)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-25#action-25"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-25.webp" width="560" alt="黃昏竹林對決 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/2d9d5ea6-d0f4-4833-87fd-5d85f4460551
 
 **提示詞:**
 

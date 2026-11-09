@@ -60,7 +60,7 @@
 
 作者 [@emollick](https://x.com/emollick) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-01#animation-01)** · [原帖](https://x.com/emollick/status/2021412306291392535)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-01#animation-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-01.webp" width="560" alt="水獺駕駛機甲大戰章魚 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e0b03885-c517-42df-9bc6-c141f194579f
 
 **提示詞:**
 
@@ -73,7 +73,7 @@ An anime where an otter goes into a large mech, with lots of quick shots of mech
 
 作者 [@Framer_X](https://x.com/Framer_X) · 10 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-02#animation-02)** · [原帖](https://x.com/Framer_X/status/2028144981631029408)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-02#animation-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-02.webp" width="560" alt="一條提示詞，十種動畫風格 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/82fe6b02-6ae2-407f-8b06-dd413b78089f
 
 **提示詞:**
 
@@ -90,7 +90,7 @@ Seedance 2.0 nails style consistency.
 
 作者 [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai) · 53 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-03#animation-03)** · [原帖](https://x.com/Zarnab_with_Ai/status/2105256819623129130)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-03#animation-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-03.webp" width="560" alt="河狸與猩猩的水果之爭 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f4dbcb1b-84ae-43e1-aa83-85b63e5b7b9a
 
 **提示詞:**
 
@@ -139,7 +139,7 @@ Use cinematic establishing shots, extreme close-ups, medium shots, tracking shot
 
 作者 [@soulful__ai](https://x.com/soulful__ai) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-04#animation-04)** · [原帖](https://x.com/soulful__ai/status/2100050884835332169)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-04#animation-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-04.webp" width="560" alt="紅色捲髮高髻突然散開 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1a0b563a-dc8c-47fe-a5be-c13a7ffefc7a
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -199,7 +199,7 @@ No text, subtitles, logos, watermark, extra characters, or changes to her appear
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 16 秒 · 2:3 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-05#animation-05)** · [原帖](https://x.com/Lianaalane/status/2089563357074559014)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-05#animation-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-05.webp" width="320" alt="兩個孩子與風箏的 2D 動畫 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c7b5c0c3-2443-4768-9a23-35efc074e386
 
 **提示詞:**
 
@@ -212,7 +212,7 @@ Create a cute cinematic 14-second 2D anime-style video featuring two completely 
 
 作者 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · 30 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-06#animation-06)** · [原帖](https://x.com/ChillaiKalan__/status/2095005119134020059)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-06#animation-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-06.webp" width="560" alt="動態圖像風角色登場預告 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/7e47259a-c45c-48d0-9154-bee0f0842151
 
 **提示詞:**
 
@@ -261,7 +261,7 @@ Premium AAA quality, anime-inspired cinematic rendering, stylish and explosive, 
 
 作者 [@laviniavelle](https://x.com/laviniavelle) · 18 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-07#animation-07)** · [原帖](https://x.com/laviniavelle/status/2092793943599755621)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-07#animation-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-07.webp" width="320" alt="蒙眼女戰士躍入霓虹都市 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4e4f3a52-6cac-4e80-9411-ef9b5c1056c8
 
 **提示詞:**
 
@@ -274,7 +274,7 @@ A cinematic 3D anime action sequence featuring a blindfolded woman with long pas
 
 作者 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 30 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-08#animation-08)** · [原帖](https://x.com/ayzalnooor24521/status/2100036712873488488)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-08#animation-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-08.webp" width="560" alt="少女與白狼的魔法旅程 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4d75f367-d898-44e9-ac8f-e938af3b2308
 
 **提示詞:**
 
@@ -287,7 +287,7 @@ Created a 30-second cinematic 3D animated video in a premium fantasy-adventure s
 
 作者 [@Zyrellix](https://x.com/Zyrellix) · 30 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-09#animation-09)** · [原帖](https://x.com/Zyrellix/status/2093340253755232681)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-09#animation-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-09.webp" width="320" alt="銀髮騎手的霓虹公路逃亡 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/bd470294-4ea7-4f9d-9c20-8a36763f4567
 
 **提示詞:**
 
@@ -300,7 +300,7 @@ High-octane 3D animated cinematic action scene. A young female protagonist with 
 
 作者 [@AiwithLariab](https://x.com/AiwithLariab) · 11 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-10#animation-10)** · [原帖](https://x.com/AiwithLariab/status/2088848553863233935)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-10#animation-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-10.webp" width="560" alt="手繪風療癒系烤雞料理 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/290e6aab-beca-46a7-b7d2-f407b9f1bafe
 
 **提示詞:**
 
@@ -313,7 +313,7 @@ A cozy Studio Ghibli-inspired cinematic cooking animation showing a delicious gr
 
 作者 [@arsalannazir07](https://x.com/arsalannazir07) · 21 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-11#animation-11)** · [原帖](https://x.com/arsalannazir07/status/2096791786807275583)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-11#animation-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-11.webp" width="320" alt="潮池裡笨拙起舞的石頭小人 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1f040ecf-88d4-4a01-b6cc-17f2993abd53
 
 **提示詞:**
 
@@ -342,7 +342,7 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 作者 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 15 秒 · 3:2 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-12#animation-12)** · [原帖](https://x.com/ayzalnooor24521/status/2089559741718548578)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-12#animation-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-12.webp" width="560" alt="兩個卡通角色追蝴蝶 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/8b68c2a6-4087-4f2b-be48-8cad01305c71
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -357,7 +357,7 @@ Create a cute cinematic 14-second 3D cartoon using the two reference characters,
 
 作者 [@haruuraeadss](https://x.com/haruuraeadss) · 8 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-13#animation-13)** · [原帖](https://x.com/haruuraeadss/status/2080976327231107259)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-13#animation-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-13.webp" width="560" alt="雨中魔法都市的少女戰鬥 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/781372e6-14b1-4faf-b0ef-5e9e8b3585f2
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -395,7 +395,7 @@ Create a cute cinematic 14-second 3D cartoon using the two reference characters,
 
 作者 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 25 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-14#animation-14)** · [原帖](https://x.com/ayzalnooor24521/status/2096085776735912274)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-14#animation-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-14.webp" width="560" alt="蓬鬆白貓的動畫早晨 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6ae8bbca-0fce-497b-8f45-51e513ee0d41
 
 **提示詞:**
 
@@ -408,7 +408,7 @@ Created a video in soft anime style of a fluffy white cat with big sparkling tea
 
 作者 [@ozuozuai99](https://x.com/ozuozuai99) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-15#animation-15)** · [原帖](https://x.com/ozuozuai99/status/2078854293818622124)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-15#animation-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-15.webp" width="560" alt="手繪動畫裡的麻婆豆腐 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/93b16300-bd28-43e5-8faf-94b4ec558f7f
 
 **提示詞:**
 
@@ -445,7 +445,7 @@ Created a video in soft anime style of a fluffy white cat with big sparkling tea
 
 作者 [@HaniaAi12](https://x.com/HaniaAi12) · 10 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-16#animation-16)** · [原帖](https://x.com/HaniaAi12/status/2076979039747920309)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-16#animation-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-16.webp" width="560" alt="3D 卡通女孩烤杯子蛋糕 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6255b3f0-6e19-4fad-93d2-57b051fb4d72
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -482,7 +482,7 @@ Important: Treat the uploaded storyboard only as a reference. Never animate the 
 
 作者 [@piotrbinkowski](https://x.com/piotrbinkowski) · 15 秒 · 21:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-17#animation-17)** · [原帖](https://x.com/piotrbinkowski/status/2078515110855753844)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-17#animation-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-17.webp" width="560" alt="手繪定格：暴風雪營地 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b8f6477e-e5fc-4ded-93d4-b61443564ccc
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -497,7 +497,7 @@ Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAN
 
 作者 [@haruuraeadss](https://x.com/haruuraeadss) · 8 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-18#animation-18)** · [原帖](https://x.com/haruuraeadss/status/2080539077603172597)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-18#animation-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-18.webp" width="560" alt="屋頂上的動畫劍戰 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ef2d49ed-18f8-4b9d-8d63-8691701ae05d
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -564,7 +564,7 @@ Aの攻撃色とBの防御色が別々に立ち上がり、中心の狭い白熱
 
 作者 [@miilesus](https://x.com/miilesus) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-19#animation-19)** · [原帖](https://x.com/miilesus/status/2080744222571848176)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-19#animation-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-19.webp" width="560" alt="黏土版奧德修斯遇獨眼巨人 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1b395962-dc6f-45db-a475-1c178df27617
 
 **提示詞:**
 
@@ -577,7 +577,7 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 
 作者 [@Ushizaru_LAB](https://x.com/Ushizaru_LAB) · 10 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-20#animation-20)** · [原帖](https://x.com/Ushizaru_LAB/status/2081258810405175362)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-20#animation-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-20.webp" width="560" alt="在 2D 與 3D 間故障切換的臉 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/7d5b926e-f77b-4c43-a69b-22e364f2710d
 
 **提示詞:**
 
@@ -590,7 +590,7 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 
 作者 [@noorwithwifi](https://x.com/noorwithwifi) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-21#animation-21)** · [原帖](https://x.com/noorwithwifi/status/2076415711375970372)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-21#animation-21"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-21.webp" width="560" alt="動畫 ASMR：壓花書籤 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/716f6b2e-a52f-4d11-88c3-92b99b8fb733
 
 **提示詞:**
 
@@ -603,7 +603,7 @@ ASMR anime scene of hands creating a pressed-flower bookmark on a warm wooden de
 
 作者 [@noorwithwifi](https://x.com/noorwithwifi) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-22#animation-22)** · [原帖](https://x.com/noorwithwifi/status/2078535850745626926)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-22#animation-22"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-22.webp" width="560" alt="黏土貓把世界塗上顏色 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/bb709a75-263a-420e-a5fa-df272d9bdda5
 
 **提示詞:**
 
@@ -616,7 +616,7 @@ Create a whimsical, cinematic claymation-style animation of a playful black-and-
 
 作者 [@itsshara_ai](https://x.com/itsshara_ai) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-23#animation-23)** · [原帖](https://x.com/itsshara_ai/status/2079565454436426187)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-23#animation-23"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-23.webp" width="560" alt="墨線風 2D 海盜決鬥 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/12e9ed6f-787d-4ee7-9043-772996f0b96b
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -657,7 +657,7 @@ Overall: premium stylized 2D/cel-shaded animated quality throughout, bold consis
 
 作者 [@yourPlugAI](https://x.com/yourPlugAI) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-24#animation-24)** · [原帖](https://x.com/yourPlugAI/status/2092269036167934445)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-24#animation-24"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-24.webp" width="560" alt="雪中神社的浪人與紙鶴 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/786cc227-3e50-4b82-922f-623e05422a28
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -693,7 +693,7 @@ Fast camera tracking, dynamic angle cuts, close-up blade clangs, wide dramatic e
 
 作者 [@ai_animer](https://x.com/ai_animer) · 15 秒 · 21:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-25#animation-25)** · [原帖](https://x.com/ai_animer/status/2078023536992735573)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-25#animation-25"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-25.webp" width="560" alt="手繪定格：山脊上的狼群 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/fc38edac-8a0f-40a1-9342-b38ba6fa33d2
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -735,7 +735,7 @@ Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, f
 
 作者 [@CharaspowerAI](https://x.com/CharaspowerAI) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-26#animation-26)** · [原帖](https://x.com/CharaspowerAI/status/2078072313686184334)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-26#animation-26"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-26.webp" width="560" alt="黏土海盜鴨在浴缸裡航行 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0b113de8-fe93-4082-ab80-c699f8b6945a
 
 **提示詞:**
 
@@ -751,7 +751,7 @@ Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting 
 
 作者 [@noorwithwifi](https://x.com/noorwithwifi) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-27#animation-27)** · [原帖](https://x.com/noorwithwifi/status/2080354151750668360)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-27#animation-27"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-27.webp" width="560" alt="3D 卡通裡手忙腳亂的早晨 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/81c6b3f5-b4ef-451f-91aa-04cbb095eb60
 
 **提示詞:**
 
@@ -764,7 +764,7 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 
 作者 [@tanabe_fragm](https://x.com/tanabe_fragm) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-28#animation-28)** · [原帖](https://x.com/tanabe_fragm/status/2076508810190225846)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-28#animation-28"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-28.webp" width="560" alt="照動畫分鏡做蘆筍肉捲 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/17789e04-c7d0-4e57-b28f-46f464b59c6b
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -848,7 +848,7 @@ NO UI ELEMENTS. NO SPEECH BUBBLES.
 
 作者 [@bmx_ai13](https://x.com/bmx_ai13) · 8 秒 · 1:1 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-29#animation-29)** · [原帖](https://x.com/bmx_ai13/status/2077208527840391188)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-29#animation-29"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-29.webp" width="560" alt="一疊撲克牌上的定格動畫 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/057f892f-bfd4-4fa7-a4c0-1ebb8e9ee779
 
 **提示詞:**
 
@@ -877,7 +877,7 @@ Avoid: moving camera, zooming, human hands, floating cards, cards flying away, m
 
 作者 [@AllaAisling](https://x.com/AllaAisling) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-30#animation-30)** · [原帖](https://x.com/AllaAisling/status/2118872216741749097)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-30#animation-30"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-30.webp" width="560" alt="水墨畫中躍出的老虎 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/431ecc39-3583-4e91-b79e-0454e1869a51
 
 **提示詞:**
 
@@ -897,7 +897,7 @@ Mountain wind, creaking rope bridge, rustling bamboo, a brush sweeping across pa
 
 作者 [@SanShiroH_X](https://x.com/SanShiroH_X) · 6 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-31#animation-31)** · [原帖](https://x.com/SanShiroH_X/status/2081189582553657528)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-31#animation-31"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-31.webp" width="560" alt="昭和客廳裡奶奶喊孫女洗澡 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d8087cb6-26da-4a66-8f87-da1ee4baf4d0
 
 **提示詞:**
 
@@ -910,7 +910,7 @@ Mountain wind, creaking rope bridge, rustling bamboo, a brush sweeping across pa
 
 作者 [@gptproto](https://x.com/gptproto) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-32#animation-32)** · [原帖](https://x.com/gptproto/status/2071501518679998922)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-32#animation-32"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-32.webp" width="560" alt="照分鏡海報做的奶昔小店動畫 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a4cd0404-f631-4bde-a565-0c22cc14712b
 
 **提示詞:**
 
@@ -923,7 +923,7 @@ Create a crisp, clean infographic storyboard poster for THE MILKSHAKE MAKER. Wid
 
 作者 [@MrDasCreates](https://x.com/MrDasCreates) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-33#animation-33)** · [原帖](https://x.com/MrDasCreates/status/2080908954079760476)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-33#animation-33"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-33.webp" width="560" alt="12 幀動起來的京都旅行 Vlog – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/81e87b95-53c2-4b0c-ba89-167339009639
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -938,7 +938,7 @@ Create a crisp, clean infographic storyboard poster for THE MILKSHAKE MAKER. Wid
 
 作者 [@samaote](https://x.com/samaote) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-34#animation-34)** · [原帖](https://x.com/samaote/status/2080638821557731785)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-34#animation-34"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-34.webp" width="560" alt="手繪森林裡的野餐小意外 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/bad6adc9-17e2-4f51-b96e-945b7e8afd39
 
 **提示詞:**
 

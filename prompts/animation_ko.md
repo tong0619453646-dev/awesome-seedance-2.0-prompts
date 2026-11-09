@@ -60,7 +60,7 @@
 
 작성자 [@emollick](https://x.com/emollick) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-01#animation-01)** · [원본 게시물](https://x.com/emollick/status/2021412306291392535)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-01#animation-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-01.webp" width="560" alt="문어와 싸우는 수달 메카 조종사 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e0b03885-c517-42df-9bc6-c141f194579f
 
 **프롬프트:**
 
@@ -73,7 +73,7 @@ An anime where an otter goes into a large mech, with lots of quick shots of mech
 
 작성자 [@Framer_X](https://x.com/Framer_X) · 10초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-02#animation-02)** · [원본 게시물](https://x.com/Framer_X/status/2028144981631029408)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-02#animation-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-02.webp" width="560" alt="프롬프트 하나, 애니메이션 스타일 열 가지 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/82fe6b02-6ae2-407f-8b06-dd413b78089f
 
 **프롬프트:**
 
@@ -90,7 +90,7 @@ Seedance 2.0 nails style consistency.
 
 작성자 [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai) · 53초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-03#animation-03)** · [원본 게시물](https://x.com/Zarnab_with_Ai/status/2105256819623129130)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-03#animation-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-03.webp" width="560" alt="과일을 두고 다투는 비버와 고릴라 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f4dbcb1b-84ae-43e1-aa83-85b63e5b7b9a
 
 **프롬프트:**
 
@@ -139,7 +139,7 @@ Use cinematic establishing shots, extreme close-ups, medium shots, tracking shot
 
 작성자 [@soulful__ai](https://x.com/soulful__ai) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-04#animation-04)** · [원본 게시물](https://x.com/soulful__ai/status/2100050884835332169)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-04#animation-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-04.webp" width="560" alt="빨간 곱슬 똥머리가 풀려 버리는 순간 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1a0b563a-dc8c-47fe-a5be-c13a7ffefc7a
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -199,7 +199,7 @@ No text, subtitles, logos, watermark, extra characters, or changes to her appear
 
 작성자 [@Lianaalane](https://x.com/Lianaalane) · 16초 · 2:3 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-05#animation-05)** · [원본 게시물](https://x.com/Lianaalane/status/2089563357074559014)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-05#animation-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-05.webp" width="320" alt="아이 둘과 연의 2D 애니 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c7b5c0c3-2443-4768-9a23-35efc074e386
 
 **프롬프트:**
 
@@ -212,7 +212,7 @@ Create a cute cinematic 14-second 2D anime-style video featuring two completely 
 
 작성자 [@ChillaiKalan__](https://x.com/ChillaiKalan__) · 30초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-06#animation-06)** · [원본 게시물](https://x.com/ChillaiKalan__/status/2095005119134020059)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-06#animation-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-06.webp" width="560" alt="모션그래픽 캐릭터 공개 트레일러 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/7e47259a-c45c-48d0-9154-bee0f0842151
 
 **프롬프트:**
 
@@ -261,7 +261,7 @@ Premium AAA quality, anime-inspired cinematic rendering, stylish and explosive, 
 
 작성자 [@laviniavelle](https://x.com/laviniavelle) · 18초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-07#animation-07)** · [원본 게시물](https://x.com/laviniavelle/status/2092793943599755621)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-07#animation-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-07.webp" width="320" alt="네온 도시로 뛰어드는 눈가리개 히로인 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4e4f3a52-6cac-4e80-9411-ef9b5c1056c8
 
 **프롬프트:**
 
@@ -274,7 +274,7 @@ A cinematic 3D anime action sequence featuring a blindfolded woman with long pas
 
 작성자 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 30초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-08#animation-08)** · [원본 게시물](https://x.com/ayzalnooor24521/status/2100036712873488488)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-08#animation-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-08.webp" width="560" alt="소녀와 흰 늑대의 마법 여행 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4d75f367-d898-44e9-ac8f-e938af3b2308
 
 **프롬프트:**
 
@@ -287,7 +287,7 @@ Created a 30-second cinematic 3D animated video in a premium fantasy-adventure s
 
 작성자 [@Zyrellix](https://x.com/Zyrellix) · 30초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-09#animation-09)** · [원본 게시물](https://x.com/Zyrellix/status/2093340253755232681)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-09#animation-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-09.webp" width="320" alt="은발 라이더의 네온 고속도로 탈출 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/bd470294-4ea7-4f9d-9c20-8a36763f4567
 
 **프롬프트:**
 
@@ -300,7 +300,7 @@ High-octane 3D animated cinematic action scene. A young female protagonist with 
 
 작성자 [@AiwithLariab](https://x.com/AiwithLariab) · 11초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-10#animation-10)** · [원본 게시물](https://x.com/AiwithLariab/status/2088848553863233935)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-10#animation-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-10.webp" width="560" alt="손그림 감성 힐링 요리: 치킨 구이 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/290e6aab-beca-46a7-b7d2-f407b9f1bafe
 
 **프롬프트:**
 
@@ -313,7 +313,7 @@ A cozy Studio Ghibli-inspired cinematic cooking animation showing a delicious gr
 
 작성자 [@arsalannazir07](https://x.com/arsalannazir07) · 21초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-11#animation-11)** · [원본 게시물](https://x.com/arsalannazir07/status/2096791786807275583)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-11#animation-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-11.webp" width="320" alt="조수 웅덩이에서 춤추는 돌 인형 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1f040ecf-88d4-4a01-b6cc-17f2993abd53
 
 **프롬프트:**
 
@@ -342,7 +342,7 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 작성자 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 15초 · 3:2 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-12#animation-12)** · [원본 게시물](https://x.com/ayzalnooor24521/status/2089559741718548578)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-12#animation-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-12.webp" width="560" alt="나비를 쫓는 두 카툰 캐릭터 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/8b68c2a6-4087-4f2b-be48-8cad01305c71
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -357,7 +357,7 @@ Create a cute cinematic 14-second 3D cartoon using the two reference characters,
 
 작성자 [@haruuraeadss](https://x.com/haruuraeadss) · 8초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-13#animation-13)** · [원본 게시물](https://x.com/haruuraeadss/status/2080976327231107259)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-13#animation-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-13.webp" width="560" alt="비 내리는 마법 도시의 소녀 전투 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/781372e6-14b1-4faf-b0ef-5e9e8b3585f2
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -395,7 +395,7 @@ Create a cute cinematic 14-second 3D cartoon using the two reference characters,
 
 작성자 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 25초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-14#animation-14)** · [원본 게시물](https://x.com/ayzalnooor24521/status/2096085776735912274)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-14#animation-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-14.webp" width="560" alt="복슬복슬 흰 고양이의 애니 아침 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6ae8bbca-0fce-497b-8f45-51e513ee0d41
 
 **프롬프트:**
 
@@ -408,7 +408,7 @@ Created a video in soft anime style of a fluffy white cat with big sparkling tea
 
 작성자 [@ozuozuai99](https://x.com/ozuozuai99) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-15#animation-15)** · [원본 게시물](https://x.com/ozuozuai99/status/2078854293818622124)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-15#animation-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-15.webp" width="560" alt="손그림 애니로 만드는 마파두부 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/93b16300-bd28-43e5-8faf-94b4ec558f7f
 
 **프롬프트:**
 
@@ -445,7 +445,7 @@ Created a video in soft anime style of a fluffy white cat with big sparkling tea
 
 작성자 [@HaniaAi12](https://x.com/HaniaAi12) · 10초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-16#animation-16)** · [원본 게시물](https://x.com/HaniaAi12/status/2076979039747920309)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-16#animation-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-16.webp" width="560" alt="컵케이크 굽는 3D 카툰 소녀 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6255b3f0-6e19-4fad-93d2-57b051fb4d72
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -482,7 +482,7 @@ Important: Treat the uploaded storyboard only as a reference. Never animate the 
 
 작성자 [@piotrbinkowski](https://x.com/piotrbinkowski) · 15초 · 21:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-17#animation-17)** · [원본 게시물](https://x.com/piotrbinkowski/status/2078515110855753844)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-17#animation-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-17.webp" width="560" alt="손그림 스톱모션: 눈보라 속 야영지 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b8f6477e-e5fc-4ded-93d4-b61443564ccc
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -497,7 +497,7 @@ Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAN
 
 작성자 [@haruuraeadss](https://x.com/haruuraeadss) · 8초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-18#animation-18)** · [원본 게시물](https://x.com/haruuraeadss/status/2080539077603172597)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-18#animation-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-18.webp" width="560" alt="옥상 위 애니 검술 대결 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ef2d49ed-18f8-4b9d-8d63-8691701ae05d
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -564,7 +564,7 @@ Aの攻撃色とBの防御色が別々に立ち上がり、中心の狭い白熱
 
 작성자 [@miilesus](https://x.com/miilesus) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-19#animation-19)** · [원본 게시물](https://x.com/miilesus/status/2080744222571848176)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-19#animation-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-19.webp" width="560" alt="클레이로 만든 오디세우스와 키클롭스 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1b395962-dc6f-45db-a475-1c178df27617
 
 **프롬프트:**
 
@@ -577,7 +577,7 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 
 작성자 [@Ushizaru_LAB](https://x.com/Ushizaru_LAB) · 10초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-20#animation-20)** · [원본 게시물](https://x.com/Ushizaru_LAB/status/2081258810405175362)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-20#animation-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-20.webp" width="560" alt="2D와 3D를 오가며 글리치되는 얼굴 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/7d5b926e-f77b-4c43-a69b-22e364f2710d
 
 **프롬프트:**
 
@@ -590,7 +590,7 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 
 작성자 [@noorwithwifi](https://x.com/noorwithwifi) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-21#animation-21)** · [원본 게시물](https://x.com/noorwithwifi/status/2076415711375970372)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-21#animation-21"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-21.webp" width="560" alt="애니 ASMR: 압화 책갈피 만들기 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/716f6b2e-a52f-4d11-88c3-92b99b8fb733
 
 **프롬프트:**
 
@@ -603,7 +603,7 @@ ASMR anime scene of hands creating a pressed-flower bookmark on a warm wooden de
 
 작성자 [@noorwithwifi](https://x.com/noorwithwifi) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-22#animation-22)** · [원본 게시물](https://x.com/noorwithwifi/status/2078535850745626926)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-22#animation-22"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-22.webp" width="560" alt="세상을 색칠하는 클레이 고양이 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/bb709a75-263a-420e-a5fa-df272d9bdda5
 
 **프롬프트:**
 
@@ -616,7 +616,7 @@ Create a whimsical, cinematic claymation-style animation of a playful black-and-
 
 작성자 [@itsshara_ai](https://x.com/itsshara_ai) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-23#animation-23)** · [원본 게시물](https://x.com/itsshara_ai/status/2079565454436426187)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-23#animation-23"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-23.webp" width="560" alt="잉크 선화 2D 해적 결투 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/12e9ed6f-787d-4ee7-9043-772996f0b96b
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -657,7 +657,7 @@ Overall: premium stylized 2D/cel-shaded animated quality throughout, bold consis
 
 작성자 [@yourPlugAI](https://x.com/yourPlugAI) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-24#animation-24)** · [원본 게시물](https://x.com/yourPlugAI/status/2092269036167934445)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-24#animation-24"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-24.webp" width="560" alt="눈 덮인 신사의 낭인과 종이학 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/786cc227-3e50-4b82-922f-623e05422a28
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -693,7 +693,7 @@ Fast camera tracking, dynamic angle cuts, close-up blade clangs, wide dramatic e
 
 작성자 [@ai_animer](https://x.com/ai_animer) · 15초 · 21:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-25#animation-25)** · [원본 게시물](https://x.com/ai_animer/status/2078023536992735573)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-25#animation-25"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-25.webp" width="560" alt="손그림 스톱모션: 능선의 늑대들 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/fc38edac-8a0f-40a1-9342-b38ba6fa33d2
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -735,7 +735,7 @@ Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, f
 
 작성자 [@CharaspowerAI](https://x.com/CharaspowerAI) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-26#animation-26)** · [원본 게시물](https://x.com/CharaspowerAI/status/2078072313686184334)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-26#animation-26"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-26.webp" width="560" alt="욕조를 항해하는 클레이 해적 오리 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0b113de8-fe93-4082-ab80-c699f8b6945a
 
 **프롬프트:**
 
@@ -751,7 +751,7 @@ Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting 
 
 작성자 [@noorwithwifi](https://x.com/noorwithwifi) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-27#animation-27)** · [원본 게시물](https://x.com/noorwithwifi/status/2080354151750668360)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-27#animation-27"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-27.webp" width="560" alt="3D 카툰으로 그린 정신없는 아침 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/81c6b3f5-b4ef-451f-91aa-04cbb095eb60
 
 **프롬프트:**
 
@@ -764,7 +764,7 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 
 작성자 [@tanabe_fragm](https://x.com/tanabe_fragm) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-28#animation-28)** · [원본 게시물](https://x.com/tanabe_fragm/status/2076508810190225846)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-28#animation-28"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-28.webp" width="560" alt="애니 콘티로 만드는 아스파라거스 베이컨말이 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/17789e04-c7d0-4e57-b28f-46f464b59c6b
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -848,7 +848,7 @@ NO UI ELEMENTS. NO SPEECH BUBBLES.
 
 작성자 [@bmx_ai13](https://x.com/bmx_ai13) · 8초 · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-29#animation-29)** · [원본 게시물](https://x.com/bmx_ai13/status/2077208527840391188)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-29#animation-29"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-29.webp" width="560" alt="트럼프 카드 위의 스톱모션 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/057f892f-bfd4-4fa7-a4c0-1ebb8e9ee779
 
 **프롬프트:**
 
@@ -877,7 +877,7 @@ Avoid: moving camera, zooming, human hands, floating cards, cards flying away, m
 
 작성자 [@AllaAisling](https://x.com/AllaAisling) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-30#animation-30)** · [원본 게시물](https://x.com/AllaAisling/status/2118872216741749097)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-30#animation-30"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-30.webp" width="560" alt="수묵화 속에서 뛰어오르는 호랑이 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/431ecc39-3583-4e91-b79e-0454e1869a51
 
 **프롬프트:**
 
@@ -897,7 +897,7 @@ Mountain wind, creaking rope bridge, rustling bamboo, a brush sweeping across pa
 
 작성자 [@SanShiroH_X](https://x.com/SanShiroH_X) · 6초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-31#animation-31)** · [원본 게시물](https://x.com/SanShiroH_X/status/2081189582553657528)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-31#animation-31"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-31.webp" width="560" alt="쇼와 시대 거실, 목욕하라는 할머니 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d8087cb6-26da-4a66-8f87-da1ee4baf4d0
 
 **프롬프트:**
 
@@ -910,7 +910,7 @@ Mountain wind, creaking rope bridge, rustling bamboo, a brush sweeping across pa
 
 작성자 [@gptproto](https://x.com/gptproto) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-32#animation-32)** · [원본 게시물](https://x.com/gptproto/status/2071501518679998922)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-32#animation-32"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-32.webp" width="560" alt="콘티 포스터로 만든 밀크셰이크 가게 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a4cd0404-f631-4bde-a565-0c22cc14712b
 
 **프롬프트:**
 
@@ -923,7 +923,7 @@ Create a crisp, clean infographic storyboard poster for THE MILKSHAKE MAKER. Wid
 
 작성자 [@MrDasCreates](https://x.com/MrDasCreates) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-33#animation-33)** · [원본 게시물](https://x.com/MrDasCreates/status/2080908954079760476)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-33#animation-33"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-33.webp" width="560" alt="12프레임으로 만든 교토 여행 브이로그 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/81e87b95-53c2-4b0c-ba89-167339009639
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -938,7 +938,7 @@ Create a crisp, clean infographic storyboard poster for THE MILKSHAKE MAKER. Wid
 
 작성자 [@samaote](https://x.com/samaote) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-34#animation-34)** · [원본 게시물](https://x.com/samaote/status/2080638821557731785)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-34#animation-34"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-34.webp" width="560" alt="손그림 숲속 소풍 대소동 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/bad6adc9-17e2-4f51-b96e-945b7e8afd39
 
 **프롬프트:**
 

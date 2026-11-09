@@ -21,7 +21,7 @@
 
 **Seedance 2.0 提示詞：175 個可複製的影片提示詞，每個都附上生成的片段，涵蓋動漫、黏土動畫、動作、美妝廣告、Vlog 和 DIY 縮時。**
 
-每個提示詞都附上它生成的影片：直接複製，或在模型頁開啟，長度和畫面比例已照範例設好。
+每個提示詞都附上它生成的影片：直接複製，或在模型頁開啟，長度和畫面比例已照範例設好。 所有成品影片都能在 GitHub 頁面上直接播放。
 
 線上搜尋與篩選： [apiko.app/seedance-2-0-prompts](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts&utm_content=intro).
 
@@ -101,7 +101,7 @@ done
 
 作者 [@Just_sharon7](https://x.com/Just_sharon7) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-01#cinematic-01)** · [原帖](https://x.com/Just_sharon7/status/2084901309988425731)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-01#cinematic-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-01.webp" width="560" alt="從車裡拍到兩隻貓騎紅色小機車 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a73e7827-858a-4f85-862a-f39b6bd24fd8
 
 **提示詞:**
 
@@ -114,7 +114,7 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 
 作者 [@Zyrellix](https://x.com/Zyrellix) · 30 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-04#fantasy-scifi-04)** · [原帖](https://x.com/Zyrellix/status/2092121112746287527)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-04#fantasy-scifi-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-04.webp" width="560" alt="女武士與白龍擊碎熔岩星球 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0b3b595f-e1d6-4881-bbbc-52cc4c1b6977
 
 **提示詞:**
 
@@ -127,7 +127,7 @@ A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of 
 
 作者 [@miilesus](https://x.com/miilesus) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-19#animation-19)** · [原帖](https://x.com/miilesus/status/2080744222571848176)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-19#animation-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-19.webp" width="560" alt="黏土版奧德修斯遇獨眼巨人 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1b395962-dc6f-45db-a475-1c178df27617
 
 **提示詞:**
 
@@ -140,7 +140,7 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 
 作者 [@Ruslanchain](https://x.com/Ruslanchain) · 24 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-11#craft-timelapse-11)** · [原帖](https://x.com/Ruslanchain/status/2118023608815571361)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-11#craft-timelapse-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-11.webp" width="320" alt="舊輪胎改成無限鏡茶几 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a2352d5b-f26d-4725-962e-97309a2d59db
 
 **提示詞:**
 
@@ -153,7 +153,7 @@ Vertical DIY video, photorealistic style. A man in a black baseball cap, gray t-
 
 作者 [@mimu_ai1](https://x.com/mimu_ai1) · 10 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-02#action-02)** · [原帖](https://x.com/mimu_ai1/status/2091215411341930633)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-02#action-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-02.webp" width="560" alt="珠寶店裡的武打戲 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/42027033-7a36-4323-8ee4-32092c469add
 
 **提示詞:**
 
@@ -166,7 +166,7 @@ A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. 
 
 作者 [@zyvaoz](https://x.com/zyvaoz) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-15#cinematic-15)** · [原帖](https://x.com/zyvaoz/status/2081398750996746385)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-15#cinematic-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-15.webp" width="560" alt="無底峽谷上逐漸消散的吊橋 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f87e11b6-1311-4689-a53f-ce51683d2b29
 
 **提示詞:**
 

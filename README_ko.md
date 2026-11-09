@@ -21,7 +21,7 @@
 
 **Seedance 2.0 프롬프트: 결과 클립이 붙은 복사 가능한 영상 프롬프트 175개. 애니메이션과 클레이부터 액션, 뷰티 광고, 브이로그, DIY 타임랩스까지.**
 
-프롬프트마다 그 프롬프트로 만든 클립이 붙어 있습니다. 복사하거나, 길이와 화면 비율이 맞춰진 채로 모델 페이지에서 여세요.
+프롬프트마다 그 프롬프트로 만든 클립이 붙어 있습니다. 복사하거나, 길이와 화면 비율이 맞춰진 채로 모델 페이지에서 여세요. 결과 영상은 모두 GitHub에서 바로 재생됩니다.
 
 검색과 필터는 [apiko.app/seedance-2-0-prompts](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts&utm_content=intro).
 
@@ -101,7 +101,7 @@ done
 
 작성자 [@Just_sharon7](https://x.com/Just_sharon7) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-01#cinematic-01)** · [원본 게시물](https://x.com/Just_sharon7/status/2084901309988425731)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-01#cinematic-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-01.webp" width="560" alt="차 안에서 찍은 빨간 스쿠터 탄 고양이 두 마리 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a73e7827-858a-4f85-862a-f39b6bd24fd8
 
 **프롬프트:**
 
@@ -114,7 +114,7 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 
 작성자 [@Zyrellix](https://x.com/Zyrellix) · 30초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-04#fantasy-scifi-04)** · [원본 게시물](https://x.com/Zyrellix/status/2092121112746287527)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-04#fantasy-scifi-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-04.webp" width="560" alt="용암 구체를 부수는 전사와 백룡 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0b3b595f-e1d6-4881-bbbc-52cc4c1b6977
 
 **프롬프트:**
 
@@ -127,7 +127,7 @@ A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of 
 
 작성자 [@miilesus](https://x.com/miilesus) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-19#animation-19)** · [원본 게시물](https://x.com/miilesus/status/2080744222571848176)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-19#animation-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-19.webp" width="560" alt="클레이로 만든 오디세우스와 키클롭스 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1b395962-dc6f-45db-a475-1c178df27617
 
 **프롬프트:**
 
@@ -140,7 +140,7 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 
 작성자 [@Ruslanchain](https://x.com/Ruslanchain) · 24초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-11#craft-timelapse-11)** · [원본 게시물](https://x.com/Ruslanchain/status/2118023608815571361)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-11#craft-timelapse-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-11.webp" width="320" alt="폐타이어로 만든 인피니티 미러 테이블 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a2352d5b-f26d-4725-962e-97309a2d59db
 
 **프롬프트:**
 
@@ -153,7 +153,7 @@ Vertical DIY video, photorealistic style. A man in a black baseball cap, gray t-
 
 작성자 [@mimu_ai1](https://x.com/mimu_ai1) · 10초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-02#action-02)** · [원본 게시물](https://x.com/mimu_ai1/status/2091215411341930633)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-02#action-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-02.webp" width="560" alt="보석 매장 안의 무술 액션 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/42027033-7a36-4323-8ee4-32092c469add
 
 **프롬프트:**
 
@@ -166,7 +166,7 @@ A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. 
 
 작성자 [@zyvaoz](https://x.com/zyvaoz) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-15#cinematic-15)** · [원본 게시물](https://x.com/zyvaoz/status/2081398750996746385)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-15#cinematic-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-15.webp" width="560" alt="끝없는 협곡 위에서 사라지는 흔들다리 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f87e11b6-1311-4689-a53f-ce51683d2b29
 
 **프롬프트:**
 

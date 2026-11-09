@@ -39,7 +39,7 @@
 
 by [@heyfatema](https://x.com/heyfatema) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-01#craft-timelapse-01)** · [Original post](https://x.com/heyfatema/status/2093288705448685975)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-01#craft-timelapse-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-01.webp" width="560" alt="A pizza shop from morning prep to the dinner rush – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a848c0ec-7681-4973-95a9-c07d361e6213
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -62,7 +62,7 @@ A warm, energetic 15-second ultra-realistic food commercial opens wide on a sunl
 
 by [@Lianaalane](https://x.com/Lianaalane) · 27s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-02#craft-timelapse-02)** · [Original post](https://x.com/Lianaalane/status/2102330407404572896)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-02#craft-timelapse-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-02.webp" width="560" alt="Coffee moments in a modern café – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f60cb9bd-a6a5-4c4a-bee4-4cca92b1b9f2
 
 **Prompt:**
 
@@ -75,7 +75,7 @@ Created this cozy cinematic coffee video, featuring the beautiful atmosphere of 
 
 by [@Naiknelofar788](https://x.com/Naiknelofar788) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-03#craft-timelapse-03)** · [Original post](https://x.com/Naiknelofar788/status/2081371164728041980)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-03#craft-timelapse-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-03.webp" width="560" alt="Renovating an empty room in one locked shot – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/95b72870-e972-4aa3-93fa-e866f1b1c96c
 
 **Prompt:**
 
@@ -111,7 +111,7 @@ People, workers, text, logos, watermarks, camera movement, zoom, panning, rotati
 
 by [@craftian_keskin](https://x.com/craftian_keskin) · 13s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-04#craft-timelapse-04)** · [Original post](https://x.com/craftian_keskin/status/2075669026508853393)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-04#craft-timelapse-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-04.webp" width="560" alt="From a floor plan to a finished house – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/11c2d46c-fad9-46e4-aead-79b6b6ead329
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -142,7 +142,7 @@ Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mell
 
 by [@Rajrana12476547](https://x.com/Rajrana12476547) · 30s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-05#craft-timelapse-05)** · [Original post](https://x.com/Rajrana12476547/status/2115506584159969679)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-05#craft-timelapse-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-05.webp" width="320" alt="A red fractal epoxy floor – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0a65589c-3898-4c7c-8a12-299bf18e53f6
 
 **Prompt:**
 
@@ -155,7 +155,7 @@ Static camera framed through a doorway looking into an empty bedroom with white 
 
 by [@Rajrana12476547](https://x.com/Rajrana12476547) · 37s · 1:1 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-06#craft-timelapse-06)** · [Original post](https://x.com/Rajrana12476547/status/2116908365364256821)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-06#craft-timelapse-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-06.webp" width="560" alt="Casting a terrazzo sink by hand – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/15877611-a186-4162-8227-bfce50e11bcc
 
 **Prompt:**
 
@@ -168,7 +168,7 @@ A realistic DIY craft video filmed on a covered patio with a concrete wall and w
 
 by [@Ruslanchain](https://x.com/Ruslanchain) · 24s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-07#craft-timelapse-07)** · [Original post](https://x.com/Ruslanchain/status/2116426434025504817)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-07#craft-timelapse-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-07.webp" width="320" alt="A sunflower epoxy floor – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c101027d-1479-4ba3-9724-f36579b621a7
 
 **Prompt:**
 
@@ -181,7 +181,7 @@ Vertical video in a bright empty room with white walls, a large window and a raw
 
 by [@Rajrana12476547](https://x.com/Rajrana12476547) · 12s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-08#craft-timelapse-08)** · [Original post](https://x.com/Rajrana12476547/status/2118803488159518901)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-08#craft-timelapse-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-08.webp" width="320" alt="Troweling a blue-and-gold plaster wall – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a66e6c7d-9677-4aef-9e89-3e1459b6d9e6
 
 **Prompt:**
 
@@ -194,7 +194,7 @@ Vertical smartphone-style video, close-up shot: a hand grips a wide stainless st
 
 by [@Rajrana12476547](https://x.com/Rajrana12476547) · 12s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-09#craft-timelapse-09)** · [Original post](https://x.com/Rajrana12476547/status/2116533263543984512)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-09#craft-timelapse-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-09.webp" width="320" alt="Painting a door with liquid chrome – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e37ef808-f6d2-4048-927d-ffd187207e02
 
 **Prompt:**
 
@@ -207,7 +207,7 @@ Vertical photorealistic video in a bright modern home interior. A man in a fitte
 
 by [@Ruslanchain](https://x.com/Ruslanchain) · 24s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-10#craft-timelapse-10)** · [Original post](https://x.com/Ruslanchain/status/2116161380516601859)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-10#craft-timelapse-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-10.webp" width="320" alt="A vinyl-record epoxy floor – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b4957db9-ea2e-439e-a23f-5b113b519757
 
 **Prompt:**
 
@@ -220,7 +220,7 @@ Vertical video, static wide shot of an empty white room with a large window show
 
 by [@Ruslanchain](https://x.com/Ruslanchain) · 24s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-11#craft-timelapse-11)** · [Original post](https://x.com/Ruslanchain/status/2118023608815571361)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-11#craft-timelapse-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-11.webp" width="320" alt="An old tire becomes an infinity-mirror table – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a2352d5b-f26d-4725-962e-97309a2d59db
 
 **Prompt:**
 
@@ -233,7 +233,7 @@ Vertical DIY video, photorealistic style. A man in a black baseball cap, gray t-
 
 by [@Ruslanchain](https://x.com/Ruslanchain) · 24s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-12#craft-timelapse-12)** · [Original post](https://x.com/Ruslanchain/status/2118975574861336982)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-12#craft-timelapse-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-12.webp" width="320" alt="A heart-pattern epoxy floor – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/28fd80c4-405f-4025-9553-cdcf283a8dff
 
 **Prompt:**
 
@@ -246,7 +246,7 @@ A satisfying DIY renovation video inside a bright empty room with white walls an
 
 by [@Ruslanchain](https://x.com/Ruslanchain) · 24s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-13#craft-timelapse-13)** · [Original post](https://x.com/Ruslanchain/status/2119093181585179086)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-13#craft-timelapse-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-13.webp" width="320" alt="A rose-petal epoxy floor – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/530479d8-0a7a-4c7f-93fa-d34032cc76e5
 
 **Prompt:**
 

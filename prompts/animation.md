@@ -60,7 +60,7 @@
 
 by [@emollick](https://x.com/emollick) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-01#animation-01)** · [Original post](https://x.com/emollick/status/2021412306291392535)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-01#animation-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-01.webp" width="560" alt="An otter pilots a mech against an octopus – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e0b03885-c517-42df-9bc6-c141f194579f
 
 **Prompt:**
 
@@ -73,7 +73,7 @@ An anime where an otter goes into a large mech, with lots of quick shots of mech
 
 by [@Framer_X](https://x.com/Framer_X) · 10s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-02#animation-02)** · [Original post](https://x.com/Framer_X/status/2028144981631029408)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-02#animation-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-02.webp" width="560" alt="One prompt, ten animation styles – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/82fe6b02-6ae2-407f-8b06-dd413b78089f
 
 **Prompt:**
 
@@ -90,7 +90,7 @@ Seedance 2.0 nails style consistency.
 
 by [@Zarnab_with_Ai](https://x.com/Zarnab_with_Ai) · 53s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-03#animation-03)** · [Original post](https://x.com/Zarnab_with_Ai/status/2105256819623129130)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-03#animation-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-03.webp" width="560" alt="A beaver and a gorilla feud over fruit – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f4dbcb1b-84ae-43e1-aa83-85b63e5b7b9a
 
 **Prompt:**
 
@@ -139,7 +139,7 @@ Use cinematic establishing shots, extreme close-ups, medium shots, tracking shot
 
 by [@soulful__ai](https://x.com/soulful__ai) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-04#animation-04)** · [Original post](https://x.com/soulful__ai/status/2100050884835332169)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-04#animation-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-04.webp" width="560" alt="A curly high bun pops loose – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1a0b563a-dc8c-47fe-a5be-c13a7ffefc7a
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -199,7 +199,7 @@ No text, subtitles, logos, watermark, extra characters, or changes to her appear
 
 by [@Lianaalane](https://x.com/Lianaalane) · 16s · 2:3 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-05#animation-05)** · [Original post](https://x.com/Lianaalane/status/2089563357074559014)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-05#animation-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-05.webp" width="320" alt="Two kids and a kite in 2D anime – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c7b5c0c3-2443-4768-9a23-35efc074e386
 
 **Prompt:**
 
@@ -212,7 +212,7 @@ Create a cute cinematic 14-second 2D anime-style video featuring two completely 
 
 by [@ChillaiKalan__](https://x.com/ChillaiKalan__) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-06#animation-06)** · [Original post](https://x.com/ChillaiKalan__/status/2095005119134020059)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-06#animation-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-06.webp" width="560" alt="A motion-graphics character reveal – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/7e47259a-c45c-48d0-9154-bee0f0842151
 
 **Prompt:**
 
@@ -261,7 +261,7 @@ Premium AAA quality, anime-inspired cinematic rendering, stylish and explosive, 
 
 by [@laviniavelle](https://x.com/laviniavelle) · 18s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-07#animation-07)** · [Original post](https://x.com/laviniavelle/status/2092793943599755621)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-07#animation-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-07.webp" width="320" alt="A blindfolded heroine leaps into a neon city – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4e4f3a52-6cac-4e80-9411-ef9b5c1056c8
 
 **Prompt:**
 
@@ -274,7 +274,7 @@ A cinematic 3D anime action sequence featuring a blindfolded woman with long pas
 
 by [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-08#animation-08)** · [Original post](https://x.com/ayzalnooor24521/status/2100036712873488488)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-08#animation-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-08.webp" width="560" alt="A girl and her white wolf cross a magical land – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4d75f367-d898-44e9-ac8f-e938af3b2308
 
 **Prompt:**
 
@@ -287,7 +287,7 @@ Created a 30-second cinematic 3D animated video in a premium fantasy-adventure s
 
 by [@Zyrellix](https://x.com/Zyrellix) · 30s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-09#animation-09)** · [Original post](https://x.com/Zyrellix/status/2093340253755232681)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-09#animation-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-09.webp" width="320" alt="A silver-haired rider's neon highway escape – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/bd470294-4ea7-4f9d-9c20-8a36763f4567
 
 **Prompt:**
 
@@ -300,7 +300,7 @@ High-octane 3D animated cinematic action scene. A young female protagonist with 
 
 by [@AiwithLariab](https://x.com/AiwithLariab) · 11s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-10#animation-10)** · [Original post](https://x.com/AiwithLariab/status/2088848553863233935)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-10#animation-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-10.webp" width="560" alt="Hand-drawn comfort cooking: grilled chicken – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/290e6aab-beca-46a7-b7d2-f407b9f1bafe
 
 **Prompt:**
 
@@ -313,7 +313,7 @@ A cozy Studio Ghibli-inspired cinematic cooking animation showing a delicious gr
 
 by [@arsalannazir07](https://x.com/arsalannazir07) · 21s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-11#animation-11)** · [Original post](https://x.com/arsalannazir07/status/2096791786807275583)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-11#animation-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-11.webp" width="320" alt="A stone figure dances clumsily in a tide pool – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1f040ecf-88d4-4a01-b6cc-17f2993abd53
 
 **Prompt:**
 
@@ -342,7 +342,7 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 by [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 15s · 3:2 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-12#animation-12)** · [Original post](https://x.com/ayzalnooor24521/status/2089559741718548578)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-12#animation-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-12.webp" width="560" alt="Two cartoon characters chase a butterfly – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/8b68c2a6-4087-4f2b-be48-8cad01305c71
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -357,7 +357,7 @@ Create a cute cinematic 14-second 3D cartoon using the two reference characters,
 
 by [@haruuraeadss](https://x.com/haruuraeadss) · 8s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-13#animation-13)** · [Original post](https://x.com/haruuraeadss/status/2080976327231107259)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-13#animation-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-13.webp" width="560" alt="A magical-girl battle in a rainy city – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/781372e6-14b1-4faf-b0ef-5e9e8b3585f2
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -395,7 +395,7 @@ by [@haruuraeadss](https://x.com/haruuraeadss) · 8s · 16:9 · **[▶ Run on AP
 
 by [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 25s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-14#animation-14)** · [Original post](https://x.com/ayzalnooor24521/status/2096085776735912274)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-14#animation-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-14.webp" width="560" alt="A fluffy white cat's soft anime morning – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6ae8bbca-0fce-497b-8f45-51e513ee0d41
 
 **Prompt:**
 
@@ -408,7 +408,7 @@ Created a video in soft anime style of a fluffy white cat with big sparkling tea
 
 by [@ozuozuai99](https://x.com/ozuozuai99) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-15#animation-15)** · [Original post](https://x.com/ozuozuai99/status/2078854293818622124)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-15#animation-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-15.webp" width="560" alt="Mapo tofu cooked in hand-drawn anime – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/93b16300-bd28-43e5-8faf-94b4ec558f7f
 
 **Prompt:**
 
@@ -445,7 +445,7 @@ by [@ozuozuai99](https://x.com/ozuozuai99) · 15s · 16:9 · **[▶ Run on APIKO
 
 by [@HaniaAi12](https://x.com/HaniaAi12) · 10s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-16#animation-16)** · [Original post](https://x.com/HaniaAi12/status/2076979039747920309)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-16#animation-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-16.webp" width="560" alt="A 3D cartoon girl bakes cupcakes – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6255b3f0-6e19-4fad-93d2-57b051fb4d72
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -482,7 +482,7 @@ Important: Treat the uploaded storyboard only as a reference. Never animate the 
 
 by [@piotrbinkowski](https://x.com/piotrbinkowski) · 15s · 21:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-17#animation-17)** · [Original post](https://x.com/piotrbinkowski/status/2078515110855753844)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-17#animation-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-17.webp" width="560" alt="Hand-painted stop motion: a blizzard camp – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b8f6477e-e5fc-4ded-93d4-b61443564ccc
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -497,7 +497,7 @@ Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAN
 
 by [@haruuraeadss](https://x.com/haruuraeadss) · 8s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-18#animation-18)** · [Original post](https://x.com/haruuraeadss/status/2080539077603172597)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-18#animation-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-18.webp" width="560" alt="An anime sword battle on a rooftop – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ef2d49ed-18f8-4b9d-8d63-8691701ae05d
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -564,7 +564,7 @@ Aの攻撃色とBの防御色が別々に立ち上がり、中心の狭い白熱
 
 by [@miilesus](https://x.com/miilesus) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-19#animation-19)** · [Original post](https://x.com/miilesus/status/2080744222571848176)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-19#animation-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-19.webp" width="560" alt="Claymation Odysseus meets the Cyclops – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1b395962-dc6f-45db-a475-1c178df27617
 
 **Prompt:**
 
@@ -577,7 +577,7 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 
 by [@Ushizaru_LAB](https://x.com/Ushizaru_LAB) · 10s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-20#animation-20)** · [Original post](https://x.com/Ushizaru_LAB/status/2081258810405175362)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-20#animation-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-20.webp" width="560" alt="A face glitches through 2D and 3D styles – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/7d5b926e-f77b-4c43-a69b-22e364f2710d
 
 **Prompt:**
 
@@ -590,7 +590,7 @@ by [@Ushizaru_LAB](https://x.com/Ushizaru_LAB) · 10s · 16:9 · **[▶ Run on A
 
 by [@noorwithwifi](https://x.com/noorwithwifi) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-21#animation-21)** · [Original post](https://x.com/noorwithwifi/status/2076415711375970372)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-21#animation-21"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-21.webp" width="560" alt="Making a pressed-flower bookmark, anime ASMR – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/716f6b2e-a52f-4d11-88c3-92b99b8fb733
 
 **Prompt:**
 
@@ -603,7 +603,7 @@ ASMR anime scene of hands creating a pressed-flower bookmark on a warm wooden de
 
 by [@noorwithwifi](https://x.com/noorwithwifi) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-22#animation-22)** · [Original post](https://x.com/noorwithwifi/status/2078535850745626926)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-22#animation-22"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-22.webp" width="560" alt="A claymation cat paints the world in color – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/bb709a75-263a-420e-a5fa-df272d9bdda5
 
 **Prompt:**
 
@@ -616,7 +616,7 @@ Create a whimsical, cinematic claymation-style animation of a playful black-and-
 
 by [@itsshara_ai](https://x.com/itsshara_ai) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-23#animation-23)** · [Original post](https://x.com/itsshara_ai/status/2079565454436426187)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-23#animation-23"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-23.webp" width="560" alt="A 2D pirate duel in ink-outline style – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/12e9ed6f-787d-4ee7-9043-772996f0b96b
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -657,7 +657,7 @@ Overall: premium stylized 2D/cel-shaded animated quality throughout, bold consis
 
 by [@yourPlugAI](https://x.com/yourPlugAI) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-24#animation-24)** · [Original post](https://x.com/yourPlugAI/status/2092269036167934445)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-24#animation-24"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-24.webp" width="560" alt="A ronin and a paper crane at a snowy shrine – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/786cc227-3e50-4b82-922f-623e05422a28
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -693,7 +693,7 @@ Fast camera tracking, dynamic angle cuts, close-up blade clangs, wide dramatic e
 
 by [@ai_animer](https://x.com/ai_animer) · 15s · 21:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-25#animation-25)** · [Original post](https://x.com/ai_animer/status/2078023536992735573)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-25#animation-25"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-25.webp" width="560" alt="Hand-painted stop motion: wolves on a ridge – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/fc38edac-8a0f-40a1-9342-b38ba6fa33d2
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -735,7 +735,7 @@ Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, f
 
 by [@CharaspowerAI](https://x.com/CharaspowerAI) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-26#animation-26)** · [Original post](https://x.com/CharaspowerAI/status/2078072313686184334)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-26#animation-26"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-26.webp" width="560" alt="A clay pirate duck sails a bathtub – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0b113de8-fe93-4082-ab80-c699f8b6945a
 
 **Prompt:**
 
@@ -751,7 +751,7 @@ Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting 
 
 by [@noorwithwifi](https://x.com/noorwithwifi) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-27#animation-27)** · [Original post](https://x.com/noorwithwifi/status/2080354151750668360)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-27#animation-27"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-27.webp" width="560" alt="A chaotic morning in 3D cartoon – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/81c6b3f5-b4ef-451f-91aa-04cbb095eb60
 
 **Prompt:**
 
@@ -764,7 +764,7 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 
 by [@tanabe_fragm](https://x.com/tanabe_fragm) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-28#animation-28)** · [Original post](https://x.com/tanabe_fragm/status/2076508810190225846)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-28#animation-28"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-28.webp" width="560" alt="Pork-wrapped asparagus from an anime storyboard – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/17789e04-c7d0-4e57-b28f-46f464b59c6b
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -848,7 +848,7 @@ NO UI ELEMENTS. NO SPEECH BUBBLES.
 
 by [@bmx_ai13](https://x.com/bmx_ai13) · 8s · 1:1 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-29#animation-29)** · [Original post](https://x.com/bmx_ai13/status/2077208527840391188)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-29#animation-29"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-29.webp" width="560" alt="Stop motion on a stack of playing cards – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/057f892f-bfd4-4fa7-a4c0-1ebb8e9ee779
 
 **Prompt:**
 
@@ -877,7 +877,7 @@ Avoid: moving camera, zooming, human hands, floating cards, cards flying away, m
 
 by [@AllaAisling](https://x.com/AllaAisling) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-30#animation-30)** · [Original post](https://x.com/AllaAisling/status/2118872216741749097)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-30#animation-30"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-30.webp" width="560" alt="A tiger leaps through an ink-wash painting – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/431ecc39-3583-4e91-b79e-0454e1869a51
 
 **Prompt:**
 
@@ -897,7 +897,7 @@ Mountain wind, creaking rope bridge, rustling bamboo, a brush sweeping across pa
 
 by [@SanShiroH_X](https://x.com/SanShiroH_X) · 6s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-31#animation-31)** · [Original post](https://x.com/SanShiroH_X/status/2081189582553657528)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-31#animation-31"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-31.webp" width="560" alt="A Showa-era living room, grandma calls for bath time – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d8087cb6-26da-4a66-8f87-da1ee4baf4d0
 
 **Prompt:**
 
@@ -910,7 +910,7 @@ by [@SanShiroH_X](https://x.com/SanShiroH_X) · 6s · 16:9 · **[▶ Run on APIK
 
 by [@gptproto](https://x.com/gptproto) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-32#animation-32)** · [Original post](https://x.com/gptproto/status/2071501518679998922)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-32#animation-32"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-32.webp" width="560" alt="A diner milkshake from a storyboard poster – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a4cd0404-f631-4bde-a565-0c22cc14712b
 
 **Prompt:**
 
@@ -923,7 +923,7 @@ Create a crisp, clean infographic storyboard poster for THE MILKSHAKE MAKER. Wid
 
 by [@MrDasCreates](https://x.com/MrDasCreates) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-33#animation-33)** · [Original post](https://x.com/MrDasCreates/status/2080908954079760476)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-33#animation-33"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-33.webp" width="560" alt="A Kyoto travel vlog animated from 12 frames – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/81e87b95-53c2-4b0c-ba89-167339009639
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -938,7 +938,7 @@ by [@MrDasCreates](https://x.com/MrDasCreates) · 15s · 16:9 · **[▶ Run on A
 
 by [@samaote](https://x.com/samaote) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-34#animation-34)** · [Original post](https://x.com/samaote/status/2080638821557731785)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-34#animation-34"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-34.webp" width="560" alt="A hand-drawn forest picnic gone wrong – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/bad6adc9-17e2-4f51-b96e-945b7e8afd39
 
 **Prompt:**
 

@@ -39,7 +39,7 @@
 
 作者 [@heyfatema](https://x.com/heyfatema) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-01#craft-timelapse-01)** · [原帖](https://x.com/heyfatema/status/2093288705448685975)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-01#craft-timelapse-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-01.webp" width="560" alt="披薩店從清晨備料到晚間客滿 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a848c0ec-7681-4973-95a9-c07d361e6213
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -62,7 +62,7 @@ A warm, energetic 15-second ultra-realistic food commercial opens wide on a sunl
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 27 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-02#craft-timelapse-02)** · [原帖](https://x.com/Lianaalane/status/2102330407404572896)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-02#craft-timelapse-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-02.webp" width="560" alt="現代咖啡廳的咖啡時光 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f60cb9bd-a6a5-4c4a-bee4-4cca92b1b9f2
 
 **提示詞:**
 
@@ -75,7 +75,7 @@ Created this cozy cinematic coffee video, featuring the beautiful atmosphere of 
 
 作者 [@Naiknelofar788](https://x.com/Naiknelofar788) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-03#craft-timelapse-03)** · [原帖](https://x.com/Naiknelofar788/status/2081371164728041980)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-03#craft-timelapse-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-03.webp" width="560" alt="固定機位的空屋翻新 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/95b72870-e972-4aa3-93fa-e866f1b1c96c
 
 **提示詞:**
 
@@ -111,7 +111,7 @@ People, workers, text, logos, watermarks, camera movement, zoom, panning, rotati
 
 作者 [@craftian_keskin](https://x.com/craftian_keskin) · 13 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-04#craft-timelapse-04)** · [原帖](https://x.com/craftian_keskin/status/2075669026508853393)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-04#craft-timelapse-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-04.webp" width="560" alt="從格局圖到完工的房子 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/11c2d46c-fad9-46e4-aead-79b6b6ead329
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -142,7 +142,7 @@ Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mell
 
 作者 [@Rajrana12476547](https://x.com/Rajrana12476547) · 30 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-05#craft-timelapse-05)** · [原帖](https://x.com/Rajrana12476547/status/2115506584159969679)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-05#craft-timelapse-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-05.webp" width="320" alt="紅色分形環氧地坪 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0a65589c-3898-4c7c-8a12-299bf18e53f6
 
 **提示詞:**
 
@@ -155,7 +155,7 @@ Static camera framed through a doorway looking into an empty bedroom with white 
 
 作者 [@Rajrana12476547](https://x.com/Rajrana12476547) · 37 秒 · 1:1 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-06#craft-timelapse-06)** · [原帖](https://x.com/Rajrana12476547/status/2116908365364256821)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-06#craft-timelapse-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-06.webp" width="560" alt="手工澆築磨石子洗手台 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/15877611-a186-4162-8227-bfce50e11bcc
 
 **提示詞:**
 
@@ -168,7 +168,7 @@ A realistic DIY craft video filmed on a covered patio with a concrete wall and w
 
 作者 [@Ruslanchain](https://x.com/Ruslanchain) · 24 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-07#craft-timelapse-07)** · [原帖](https://x.com/Ruslanchain/status/2116426434025504817)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-07#craft-timelapse-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-07.webp" width="320" alt="向日葵環氧地坪 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c101027d-1479-4ba3-9724-f36579b621a7
 
 **提示詞:**
 
@@ -181,7 +181,7 @@ Vertical video in a bright empty room with white walls, a large window and a raw
 
 作者 [@Rajrana12476547](https://x.com/Rajrana12476547) · 12 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-08#craft-timelapse-08)** · [原帖](https://x.com/Rajrana12476547/status/2118803488159518901)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-08#craft-timelapse-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-08.webp" width="320" alt="抹出藍金色藝術牆面 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a66e6c7d-9677-4aef-9e89-3e1459b6d9e6
 
 **提示詞:**
 
@@ -194,7 +194,7 @@ Vertical smartphone-style video, close-up shot: a hand grips a wide stainless st
 
 作者 [@Rajrana12476547](https://x.com/Rajrana12476547) · 12 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-09#craft-timelapse-09)** · [原帖](https://x.com/Rajrana12476547/status/2116533263543984512)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-09#craft-timelapse-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-09.webp" width="320" alt="用液態鉻漆刷出鏡面門 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e37ef808-f6d2-4048-927d-ffd187207e02
 
 **提示詞:**
 
@@ -207,7 +207,7 @@ Vertical photorealistic video in a bright modern home interior. A man in a fitte
 
 作者 [@Ruslanchain](https://x.com/Ruslanchain) · 24 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-10#craft-timelapse-10)** · [原帖](https://x.com/Ruslanchain/status/2116161380516601859)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-10#craft-timelapse-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-10.webp" width="320" alt="黑膠唱片環氧地坪 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b4957db9-ea2e-439e-a23f-5b113b519757
 
 **提示詞:**
 
@@ -220,7 +220,7 @@ Vertical video, static wide shot of an empty white room with a large window show
 
 作者 [@Ruslanchain](https://x.com/Ruslanchain) · 24 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-11#craft-timelapse-11)** · [原帖](https://x.com/Ruslanchain/status/2118023608815571361)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-11#craft-timelapse-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-11.webp" width="320" alt="舊輪胎改成無限鏡茶几 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a2352d5b-f26d-4725-962e-97309a2d59db
 
 **提示詞:**
 
@@ -233,7 +233,7 @@ Vertical DIY video, photorealistic style. A man in a black baseball cap, gray t-
 
 作者 [@Ruslanchain](https://x.com/Ruslanchain) · 24 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-12#craft-timelapse-12)** · [原帖](https://x.com/Ruslanchain/status/2118975574861336982)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-12#craft-timelapse-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-12.webp" width="320" alt="心形圖案環氧地坪 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/28fd80c4-405f-4025-9553-cdcf283a8dff
 
 **提示詞:**
 
@@ -246,7 +246,7 @@ A satisfying DIY renovation video inside a bright empty room with white walls an
 
 作者 [@Ruslanchain](https://x.com/Ruslanchain) · 24 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-13#craft-timelapse-13)** · [原帖](https://x.com/Ruslanchain/status/2119093181585179086)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-13#craft-timelapse-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-13.webp" width="320" alt="玫瑰花瓣環氧地坪 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/530479d8-0a7a-4c7f-93fa-d34032cc76e5
 
 **提示詞:**
 

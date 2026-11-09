@@ -57,7 +57,7 @@
 
 作者 [@john87445528](https://x.com/john87445528) · 115 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-01#vlog-lifestyle-01)** · [原帖](https://x.com/john87445528/status/2085045466719232351)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-01#vlog-lifestyle-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-01.webp" width="560" alt="DV 鏡頭裡的雲上宮殿之旅 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/02a0e753-24c9-479c-a1c1-ee1d2cfe27b8
 
 **提示詞:**
 
@@ -74,7 +74,7 @@ xin1_CG_realistic_style_high-angle_overhead_composition_epic__9a2eb3ce-7708-4506
 
 作者 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-02#vlog-lifestyle-02)** · [原帖](https://x.com/Goodmanprotocol/status/2079189509586260101)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-02#vlog-lifestyle-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-02.webp" width="560" alt="手機拍的海灘出遊 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d708f585-89b5-4f8a-b18b-9578af228b57
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -137,7 +137,7 @@ IMPORTANT GENERATION REQUIREMENTS:
 
 作者 [@YourAlphaMom](https://x.com/YourAlphaMom) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-03#vlog-lifestyle-03)** · [原帖](https://x.com/YourAlphaMom/status/2085035378151510274)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-03#vlog-lifestyle-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-03.webp" width="560" alt="16mm 質感健身日記 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d11b5aa1-7876-4b59-b4dc-0f49e7b94dbe
 
 **提示詞:**
 
@@ -180,7 +180,7 @@ She stands, throws the bag over her shoulder, and gives the camera a small wave.
 
 作者 [@aiwithaayat](https://x.com/aiwithaayat) · 31 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-04#vlog-lifestyle-04)** · [原帖](https://x.com/aiwithaayat/status/2100070781174907387)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-04#vlog-lifestyle-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-04.webp" width="560" alt="早晨保養與咖啡廳日常 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d6aac65f-1d27-4b70-8fdc-e90d0079b4a6
 
 **提示詞:**
 
@@ -193,7 +193,7 @@ Created a video of a Korean girl enjoying a calm, realistic morning beauty and c
 
 作者 [@aiwithaayat](https://x.com/aiwithaayat) · 30 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-05#vlog-lifestyle-05)** · [原帖](https://x.com/aiwithaayat/status/2109852187186827283)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-05#vlog-lifestyle-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-05.webp" width="320" alt="深夜便利商店泡麵小聚 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/2ec6cc09-99e1-4f7d-9b86-3c0e0a666ede
 
 **提示詞:**
 
@@ -206,7 +206,7 @@ Created a video 30 seconds, Beautiful Korean girls enjoying a late-night ramen b
 
 作者 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 15 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-06#vlog-lifestyle-06)** · [原帖](https://x.com/ayzalnooor24521/status/2094243156225315270)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-06#vlog-lifestyle-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-06.webp" width="320" alt="阿爾卑斯雪場單板騰空 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e9669f12-77da-4756-b413-fa678af165fc
 
 **提示詞:**
 
@@ -223,7 +223,7 @@ High-energy, professional ski-film aesthetic, smooth camera movement, crisp deta
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-07#vlog-lifestyle-07)** · [原帖](https://x.com/Lianaalane/status/2116042775007474169)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-07#vlog-lifestyle-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-07.webp" width="560" alt="首爾的秋日一天 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/90e37dce-4251-4f7e-a5e9-ca544e43e06d
 
 **提示詞:**
 
@@ -252,7 +252,7 @@ Maintain exactly the same face, hairstyle, outfit, and body proportions in every
 
 作者 [@doctorwasif](https://x.com/doctorwasif) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-08#vlog-lifestyle-08)** · [原帖](https://x.com/doctorwasif/status/2081353850779550056)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-08#vlog-lifestyle-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-08.webp" width="560" alt="DV 拍的後台試衣 Vlog – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/67ffd6dd-e5d4-494b-96cb-215a39d208cb
 
 **提示詞:**
 
@@ -265,7 +265,7 @@ DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped agai
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 19 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-09#vlog-lifestyle-09)** · [原帖](https://x.com/Lianaalane/status/2096465196856340515)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-09#vlog-lifestyle-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-09.webp" width="560" alt="溪邊西瓜與向日葵的夏日 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/521b3111-8298-47f1-b0af-e96910637b77
 
 **提示詞:**
 
@@ -278,7 +278,7 @@ A graceful young Korean woman with soft short wavy brown hair, delicate features
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 10 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-10#vlog-lifestyle-10)** · [原帖](https://x.com/Lianaalane/status/2096105365419209139)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-10#vlog-lifestyle-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-10.webp" width="560" alt="下雨天的咖啡與黑膠 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6904c1f5-abef-4f7f-8545-9a44263c7f5d
 
 **提示詞:**
 
@@ -291,7 +291,7 @@ A beautiful young East Asian woman with long straight black hair, wearing a soft
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-11#vlog-lifestyle-11)** · [原帖](https://x.com/Lianaalane/status/2093213626664706410)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-11#vlog-lifestyle-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-11.webp" width="560" alt="三個朋友逛日本老街市集 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/58d33a7e-65db-4c49-8c30-cf5ea41de27c
 
 **提示詞:**
 
@@ -322,7 +322,7 @@ NEGATIVE PROMPT: No text overlays, no subtitles, no watermark, no distorted face
 
 作者 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 30 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-12#vlog-lifestyle-12)** · [原帖](https://x.com/ayzalnooor24521/status/2109121097803374790)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-12#vlog-lifestyle-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-12.webp" width="560" alt="夕陽下的海邊村落漫步 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d10256a9-bbce-49f2-bb49-f37298e22cd2
 
 **提示詞:**
 
@@ -349,7 +349,7 @@ Audio: Natural ocean waves, soft sea breeze, footsteps on the stone path, and su
 
 作者 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-13#vlog-lifestyle-13)** · [原帖](https://x.com/ayzalnooor24521/status/2099369971206013374)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-13#vlog-lifestyle-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-13.webp" width="560" alt="大學生充實的一天 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4388a9a5-3cc7-4bdb-9a3d-fd6487a8f460
 
 **提示詞:**
 
@@ -372,7 +372,7 @@ Style: photorealistic Korean lifestyle, cinematic storytelling, premium commerci
 
 作者 [@AiwithElisia](https://x.com/AiwithElisia) · 20 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-14#vlog-lifestyle-14)** · [原帖](https://x.com/AiwithElisia/status/2088846290130190784)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-14#vlog-lifestyle-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-14.webp" width="560" alt="起床、鬆餅與海景的慢早晨 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/84890a03-ee4b-489c-b6c0-7061c0003be4
 
 **提示詞:**
 
@@ -413,7 +413,7 @@ No text, no subtitles, no watermark, no logo, no distorted hands, no extra finge
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 27 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-15#vlog-lifestyle-15)** · [原帖](https://x.com/Lianaalane/status/2113502626016825590)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-15#vlog-lifestyle-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-15.webp" width="560" alt="首爾悠閒的一天 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0783cac4-4f4e-4f92-ae20-f8689460be76
 
 **提示詞:**
 
@@ -426,7 +426,7 @@ Create a 27-second photorealistic cinematic lifestyle film featuring a young Kor
 
 作者 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 15 秒 · 1:1 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-16#vlog-lifestyle-16)** · [原帖](https://x.com/ayzalnooor24521/status/2095356156487127394)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-16#vlog-lifestyle-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-16.webp" width="320" alt="逛韓國服飾市場 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a306cceb-ca80-4e79-b5f4-6c207db95015
 
 **提示詞:**
 
@@ -468,7 +468,7 @@ Important: Keep the same girl's identity and appearance consistent in every shot
 
 作者 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 33 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-17#vlog-lifestyle-17)** · [原帖](https://x.com/ayzalnooor24521/status/2103702041365557449)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-17#vlog-lifestyle-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-17.webp" width="560" alt="鄉村菜攤的一天 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6b231e56-5e7b-4d0f-8d7b-3bac3c7f6d14
 
 **提示詞:**
 
@@ -501,7 +501,7 @@ The overall feeling should be wholesome, peaceful, authentic and intimate — li
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 16 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-18#vlog-lifestyle-18)** · [原帖](https://x.com/Lianaalane/status/2103359307874226667)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-18#vlog-lifestyle-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-18.webp" width="560" alt="雪山小屋的冬日慢生活 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6b2637e9-1d56-44e2-9576-9e17fd155ed3
 
 **提示詞:**
 
@@ -514,7 +514,7 @@ Create a highly realistic cinematic winter video of a peaceful woman staying in 
 
 作者 [@noorlewisx](https://x.com/noorlewisx) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-19#vlog-lifestyle-19)** · [原帖](https://x.com/noorlewisx/status/2089573549044568375)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-19#vlog-lifestyle-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-19.webp" width="560" alt="連續對白的健身房 Vlog – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/bb643c84-48dd-4602-b31e-28e245f91f03
 
 **提示詞:**
 
@@ -551,7 +551,7 @@ Important: Continuous talking from start to finish, natural lip-sync matching ev
 
 作者 [@aiwithaayat](https://x.com/aiwithaayat) · 32 秒 · 3:2 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-20#vlog-lifestyle-20)** · [原帖](https://x.com/aiwithaayat/status/2103701422252683461)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-20#vlog-lifestyle-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-20.webp" width="560" alt="閨蜜的黃金時刻公路旅行 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c90512d5-acf7-44bb-ac8d-c436c8dc24d1
 
 **提示詞:**
 
@@ -564,7 +564,7 @@ Creative 30-second video, cinematic lifestyle road-trip short film with a warm, 
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 26 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-21#vlog-lifestyle-21)** · [原帖](https://x.com/Aiwithmaha/status/2110597035502272787)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-21#vlog-lifestyle-21"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-21.webp" width="560" alt="東京從日落到霓虹 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/55210f69-d8c9-4cdd-b8a2-f4c854acaf44
 
 **提示詞:**
 
@@ -577,7 +577,7 @@ Create a 26-second ultra-realistic cinematic travel video featuring a beautiful 
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 30 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-22#vlog-lifestyle-22)** · [原帖](https://x.com/Lianaalane/status/2107326795750281669)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-22#vlog-lifestyle-22"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-22.webp" width="560" alt="在鄉村小路上追雞 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/3e34d48c-4ceb-434c-bb03-8d876e74448c
 
 **提示詞:**
 
@@ -595,7 +595,7 @@ Created on seedance 2.0
 
 作者 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 25 秒 · 4:3 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-23#vlog-lifestyle-23)** · [原帖](https://x.com/ayzalnooor24521/status/2101911177962090931)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-23#vlog-lifestyle-23"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-23.webp" width="560" alt="復古鄉間的慢日子 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/229e74c9-fd4f-4ef1-81cf-312e65b025ff
 
 **提示詞:**
 
@@ -617,7 +617,7 @@ Create a beautiful 25-second cinematic montage with realistic details, natural m
 
 作者 [@NACHOS2D_](https://x.com/NACHOS2D_) · 12 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-24#vlog-lifestyle-24)** · [原帖](https://x.com/NACHOS2D_/status/2022003177369776414)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-24#vlog-lifestyle-24"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-24.webp" width="320" alt="麵包店裡的 360° 自拍 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f1157132-b641-4df7-b4be-43b642750b98
 
 **提示詞:**
 
@@ -632,7 +632,7 @@ different props.
 
 作者 [@ZephyraLeigh](https://x.com/ZephyraLeigh) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-25#vlog-lifestyle-25)** · [原帖](https://x.com/ZephyraLeigh/status/2081195428922708039)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-25#vlog-lifestyle-25"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-25.webp" width="560" alt="2000 年代 DV 漢江騎車 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6323ca09-974e-4e1a-be59-0e7a7c5a8d25
 
 **提示詞:**
 
@@ -672,7 +672,7 @@ Goal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bic
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 20 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-26#vlog-lifestyle-26)** · [原帖](https://x.com/Lianaalane/status/2101889590621536594)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-26#vlog-lifestyle-26"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-26.webp" width="560" alt="遊樂場裡的夢幻一天 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/2b84071c-412a-4e55-8d08-95209a13737e
 
 **提示詞:**
 
@@ -693,7 +693,7 @@ Keep the Korean girl’s identity and appearance consistent throughout the entir
 
 作者 [@SimplyAnnisa](https://x.com/SimplyAnnisa) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-27#vlog-lifestyle-27)** · [原帖](https://x.com/SimplyAnnisa/status/2081342566524486102)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-27#vlog-lifestyle-27"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-27.webp" width="560" alt="復古日式第一人稱 Vlog – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a9789d98-23a6-4d30-adb2-3fe5f68823c7
 
 **提示詞:**
 
@@ -738,7 +738,7 @@ Cozy, wholesome, funny, spontaneous, highly realistic, authentic camcorder diary
 
 作者 [@saniaspeaks_](https://x.com/saniaspeaks_) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-28#vlog-lifestyle-28)** · [原帖](https://x.com/saniaspeaks_/status/2080999754859991152)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-28#vlog-lifestyle-28"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-28.webp" width="560" alt="16mm 有氧健身 Vlog – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9801c3ed-f2ca-446f-a287-231dc6da51e3
 
 **提示詞:**
 
@@ -751,7 +751,7 @@ DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera 
 
 作者 [@Goodmanprotocol](https://x.com/Goodmanprotocol) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-29#vlog-lifestyle-29)** · [原帖](https://x.com/Goodmanprotocol/status/2081028788771815678)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-29#vlog-lifestyle-29"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-29.webp" width="560" alt="飛行傘旅行 Vlog – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1751afa9-c78a-48ea-ae25-ca7ff778062c
 
 **提示詞:**
 
@@ -764,7 +764,7 @@ Ultra-realistic live-action cinematic travel vlog, absolutely NO CGI, NO animati
 
 作者 [@iamrealsnow](https://x.com/iamrealsnow) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-30#vlog-lifestyle-30)** · [原帖](https://x.com/iamrealsnow/status/2080938085081403765)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-30#vlog-lifestyle-30"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-30.webp" width="560" alt="雨天河邊的紀錄片鏡頭 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c1e673c7-dbdc-42e1-b579-0d2e1db63b92
 
 **提示詞:**
 
@@ -808,7 +808,7 @@ Goal: A forgotten MiniDV home video from the mid-2000s capturing an ordinary aft
 
 作者 [@sebatheepan](https://x.com/sebatheepan) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-31#vlog-lifestyle-31)** · [原帖](https://x.com/sebatheepan/status/2080942778293313949)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=vlog-lifestyle-31#vlog-lifestyle-31"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/vlog-lifestyle-31.webp" width="560" alt="水豚泡溫泉的療癒 ASMR – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/34b50e0d-91a8-4b06-9716-b40e3a57467c
 
 **提示詞:**
 

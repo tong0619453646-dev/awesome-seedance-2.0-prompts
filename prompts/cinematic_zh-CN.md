@@ -46,7 +46,7 @@
 
 作者 [@Just_sharon7](https://x.com/Just_sharon7) · 15 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-01#cinematic-01)** · [原帖](https://x.com/Just_sharon7/status/2084901309988425731)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-01#cinematic-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-01.webp" width="560" alt="从车里拍到两只猫骑红色小摩托 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a73e7827-858a-4f85-862a-f39b6bd24fd8
 
 **提示词:**
 
@@ -59,7 +59,7 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 
 作者 [@johnAGI168](https://x.com/johnAGI168) · 15 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-02#cinematic-02)** · [原帖](https://x.com/johnAGI168/status/2020794007291404726)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-02#cinematic-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-02.webp" width="560" alt="70mm 胶片质感的沙漠风暴史诗 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/5cc6f9a5-cc3c-4ecd-87be-c213a145855f
 
 **提示词:**
 
@@ -76,7 +76,7 @@ Duration: 15s.
 
 作者 [@soulful__ai](https://x.com/soulful__ai) · 15 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-03#cinematic-03)** · [原帖](https://x.com/soulful__ai/status/2103056454395855115)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-03#cinematic-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-03.webp" width="560" alt="乌鸦抱住灰猫后结伴离开 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9ad51ec0-1554-4e35-9847-2ca1647079d1
 
 **提示词:**
 
@@ -141,7 +141,7 @@ Single continuous shot, no cuts or transitions
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 30 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-04#cinematic-04)** · [原帖](https://x.com/Aiwithmaha/status/2110921969420177453)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-04#cinematic-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-04.webp" width="560" alt="给巨型布偶猫洗澡吹毛 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/5d1045a3-4ebb-486a-99e4-3b19226736f5
 
 **提示词:**
 
@@ -154,7 +154,7 @@ Single continuous shot, no cuts or transitions
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 15 秒 · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-05#cinematic-05)** · [原帖](https://x.com/Aiwithmaha/status/2105847315609293134)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-05#cinematic-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-05.webp" width="320" alt="一战战壕里的橘猫士兵 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d2d26478-6f8d-41dd-bf8b-6f25d8d79fd6
 
 **提示词:**
 
@@ -167,7 +167,7 @@ Create a 15-second vertical 9:16 photorealistic cinematic video of a cute orange
 
 作者 [@Lianaalane](https://x.com/Lianaalane) · 30 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-06#cinematic-06)** · [原帖](https://x.com/Lianaalane/status/2099404551199809774)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-06#cinematic-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-06.webp" width="560" alt="小棕熊开着复古蓝车穿过农场 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6868ef98-90a4-4643-a5ab-001ae98f7ee2
 
 **提示词:**
 
@@ -180,7 +180,7 @@ Created a video in a cinematic, ultra-realistic storytelling style: a cute brown
 
 作者 [@ai_lifehack55](https://x.com/ai_lifehack55) · 15 秒 · 1:1 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-07#cinematic-07)** · [原帖](https://x.com/ai_lifehack55/status/2076503632988561413)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-07#cinematic-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-07.webp" width="560" alt="微缩海岛上自动拼起港口小镇 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/7ea60454-edff-4ba4-9dc6-36b0934c434f
 
 **提示词:**
 
@@ -215,7 +215,7 @@ BGMあり、効果音あり。BGMは明るく爽快で、少し冒険感のあ�
 
 作者 [@noorlewisx](https://x.com/noorlewisx) · 16 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-08#cinematic-08)** · [原帖](https://x.com/noorlewisx/status/2089217062040453196)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-08#cinematic-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-08.webp" width="560" alt="细条纹西装走进会议室的气场 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/5a319fa1-f19e-4deb-893b-457a7cc8bee9
 
 **提示词:**
 
@@ -230,7 +230,7 @@ Moody cinematic lighting, wet reflections, sharp fashion photography style, high
 
 作者 [@aiwithaayat](https://x.com/aiwithaayat) · 30 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-09#cinematic-09)** · [原帖](https://x.com/aiwithaayat/status/2102331859657253174)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-09#cinematic-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-09.webp" width="560" alt="大学物理实验室里的斜轨小球实验 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c44dc8d4-ecf5-44c5-acd2-ca6d1b134be3
 
 **提示词:**
 
@@ -243,7 +243,7 @@ Create a cinematic, realistic educational video set inside a modern university p
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 30 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-10#cinematic-10)** · [原帖](https://x.com/Aiwithmaha/status/2113222820570550355)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-10#cinematic-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-10.webp" width="560" alt="林间骑行突遇斑马群 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b3a49881-564e-40c7-b886-da070749e0ea
 
 **提示词:**
 
@@ -256,7 +256,7 @@ Create a cinematic, photorealistic 30-second video of a young woman riding a bic
 
 作者 [@itsSaira_1](https://x.com/itsSaira_1) · 13 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-11#cinematic-11)** · [原帖](https://x.com/itsSaira_1/status/2110947923412566187)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-11#cinematic-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-11.webp" width="560" alt="蓝色光窗与烟雾中的漂浮人影 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9bd2ae74-6b8c-4bcb-88e1-22ebb67ebf91
 
 **提示词:**
 
@@ -289,7 +289,7 @@ NEGATIVE PROMPT: No eyes, eyeballs, colorful neon, bright rooms, sudden cuts, fa
 
 作者 [@Rayko_wang](https://x.com/Rayko_wang) · 10 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-12#cinematic-12)** · [原帖](https://x.com/Rayko_wang/status/2021949028481843527)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-12#cinematic-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-12.webp" width="560" alt="猫总裁和兔子保洁的办公室恋爱 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6b25a4ad-d962-432a-9043-2091f9620bb5
 
 **提示词:**
 
@@ -303,7 +303,7 @@ girl, with anthropomorphic standing poses.
 
 作者 [@AIwithMinal](https://x.com/AIwithMinal) · 15 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-13#cinematic-13)** · [原帖](https://x.com/AIwithMinal/status/2093560634822762971)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-13#cinematic-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-13.webp" width="560" alt="雨夜车窗上划过的指尖 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/84e4d7e6-0c6b-4b0b-83a6-d54d30c96975
 
 **提示词:**
 
@@ -316,7 +316,7 @@ Cinematic close-up of a delicate feminine hand gently touching a rain-covered ca
 
 作者 [@PixelAigc](https://x.com/PixelAigc) · 15 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-14#cinematic-14)** · [原帖](https://x.com/PixelAigc/status/2078846287500439682)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-14#cinematic-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-14.webp" width="560" alt="暗色霓虹舞蹈室里的音乐短片 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/49311c66-853f-4c69-8778-342b65d76505
 
 **提示词:**
 
@@ -347,7 +347,7 @@ Cinematic close-up of a delicate feminine hand gently touching a rain-covered ca
 
 作者 [@zyvaoz](https://x.com/zyvaoz) · 15 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-15#cinematic-15)** · [原帖](https://x.com/zyvaoz/status/2081398750996746385)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-15#cinematic-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-15.webp" width="560" alt="无底峡谷上逐渐消散的吊桥 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f87e11b6-1311-4689-a53f-ce51683d2b29
 
 **提示词:**
 
@@ -375,7 +375,7 @@ Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silen
 
 作者 [@RareParkStudios](https://x.com/RareParkStudios) · 15 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-16#cinematic-16)** · [原帖](https://x.com/RareParkStudios/status/2079917613149503813)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-16#cinematic-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-16.webp" width="560" alt="用一张图当首帧做音乐视频 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b3fdb37d-6fd9-4870-ac5d-bfea72360f37
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -390,7 +390,7 @@ generate an interesting music video using this image as first frame,be professio
 
 作者 [@meAsifAi](https://x.com/meAsifAi) · 10 秒 · 9:16 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-17#cinematic-17)** · [原帖](https://x.com/meAsifAi/status/2114406947558764575)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-17#cinematic-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-17.webp" width="320" alt="参考图里的猫穿衬衫走过酒店大堂 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/99b61e9b-5390-4272-8c5e-c9742524bdd2
 
 > 📎 这条需要你自己上传参考图或参考视频。
 
@@ -429,7 +429,7 @@ generate an interesting music video using this image as first frame,be professio
 
 作者 [@sebatheepan](https://x.com/sebatheepan) · 15 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-18#cinematic-18)** · [原帖](https://x.com/sebatheepan/status/2118360399057756590)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-18#cinematic-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-18.webp" width="560" alt="机械苍蝇展开成精密齿轮 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/39aa3a2d-607c-4f77-984b-3e3f4ab1a3e2
 
 **提示词:**
 
@@ -454,7 +454,7 @@ Camera: Start with a 100mm macro feel for shallow depth and product-style compre
 
 作者 [@sebatheepan](https://x.com/sebatheepan) · 15 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-19#cinematic-19)** · [原帖](https://x.com/sebatheepan/status/2080999511195828239)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-19#cinematic-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-19.webp" width="560" alt="高冷猫咪的奢华护肤日常 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/8a9f6ac2-e313-4f7f-a3ba-caf163ea3c56
 
 **提示词:**
 
@@ -469,7 +469,7 @@ CAMERA / LOOK: Propped iPhone/Mini DV camcorder footage on a sleek vanity mirror
 
 作者 [@Nexustechai1](https://x.com/Nexustechai1) · 12 秒 · 16:9 · **[▶ 在 APIKO 运行](https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-20#cinematic-20)** · [原帖](https://x.com/Nexustechai1/status/2081527386508611807)
 
-<a href="https://apiko.app/zh/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-20#cinematic-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-20.webp" width="560" alt="镜中倒影反噬发牌人的惊悚短片 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ce5c9696-d84e-4be9-8efd-2e101d2d7b44
 
 > 📎 这条需要你自己上传参考图或参考视频。
 

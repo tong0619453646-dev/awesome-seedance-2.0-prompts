@@ -39,7 +39,7 @@
 
 작성자 [@heyfatema](https://x.com/heyfatema) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-01#craft-timelapse-01)** · [원본 게시물](https://x.com/heyfatema/status/2093288705448685975)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-01#craft-timelapse-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-01.webp" width="560" alt="아침 준비부터 저녁 러시까지 피자 가게 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a848c0ec-7681-4973-95a9-c07d361e6213
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -62,7 +62,7 @@ A warm, energetic 15-second ultra-realistic food commercial opens wide on a sunl
 
 작성자 [@Lianaalane](https://x.com/Lianaalane) · 27초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-02#craft-timelapse-02)** · [원본 게시물](https://x.com/Lianaalane/status/2102330407404572896)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-02#craft-timelapse-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-02.webp" width="560" alt="모던 카페의 커피 한 잔 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f60cb9bd-a6a5-4c4a-bee4-4cca92b1b9f2
 
 **프롬프트:**
 
@@ -75,7 +75,7 @@ Created this cozy cinematic coffee video, featuring the beautiful atmosphere of 
 
 작성자 [@Naiknelofar788](https://x.com/Naiknelofar788) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-03#craft-timelapse-03)** · [원본 게시물](https://x.com/Naiknelofar788/status/2081371164728041980)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-03#craft-timelapse-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-03.webp" width="560" alt="고정 샷으로 보는 빈방 리모델링 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/95b72870-e972-4aa3-93fa-e866f1b1c96c
 
 **프롬프트:**
 
@@ -111,7 +111,7 @@ People, workers, text, logos, watermarks, camera movement, zoom, panning, rotati
 
 작성자 [@craftian_keskin](https://x.com/craftian_keskin) · 13초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-04#craft-timelapse-04)** · [원본 게시물](https://x.com/craftian_keskin/status/2075669026508853393)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-04#craft-timelapse-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-04.webp" width="560" alt="평면도에서 완성된 집까지 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/11c2d46c-fad9-46e4-aead-79b6b6ead329
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -142,7 +142,7 @@ Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mell
 
 작성자 [@Rajrana12476547](https://x.com/Rajrana12476547) · 30초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-05#craft-timelapse-05)** · [원본 게시물](https://x.com/Rajrana12476547/status/2115506584159969679)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-05#craft-timelapse-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-05.webp" width="320" alt="빨간 프랙탈 에폭시 바닥 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0a65589c-3898-4c7c-8a12-299bf18e53f6
 
 **프롬프트:**
 
@@ -155,7 +155,7 @@ Static camera framed through a doorway looking into an empty bedroom with white 
 
 작성자 [@Rajrana12476547](https://x.com/Rajrana12476547) · 37초 · 1:1 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-06#craft-timelapse-06)** · [원본 게시물](https://x.com/Rajrana12476547/status/2116908365364256821)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-06#craft-timelapse-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-06.webp" width="560" alt="테라조 세면대 직접 만들기 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/15877611-a186-4162-8227-bfce50e11bcc
 
 **프롬프트:**
 
@@ -168,7 +168,7 @@ A realistic DIY craft video filmed on a covered patio with a concrete wall and w
 
 작성자 [@Ruslanchain](https://x.com/Ruslanchain) · 24초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-07#craft-timelapse-07)** · [원본 게시물](https://x.com/Ruslanchain/status/2116426434025504817)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-07#craft-timelapse-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-07.webp" width="320" alt="해바라기 에폭시 바닥 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c101027d-1479-4ba3-9724-f36579b621a7
 
 **프롬프트:**
 
@@ -181,7 +181,7 @@ Vertical video in a bright empty room with white walls, a large window and a raw
 
 작성자 [@Rajrana12476547](https://x.com/Rajrana12476547) · 12초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-08#craft-timelapse-08)** · [원본 게시물](https://x.com/Rajrana12476547/status/2118803488159518901)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-08#craft-timelapse-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-08.webp" width="320" alt="블루 골드 미장 벽 만들기 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a66e6c7d-9677-4aef-9e89-3e1459b6d9e6
 
 **프롬프트:**
 
@@ -194,7 +194,7 @@ Vertical smartphone-style video, close-up shot: a hand grips a wide stainless st
 
 작성자 [@Rajrana12476547](https://x.com/Rajrana12476547) · 12초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-09#craft-timelapse-09)** · [원본 게시물](https://x.com/Rajrana12476547/status/2116533263543984512)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-09#craft-timelapse-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-09.webp" width="320" alt="리퀴드 크롬으로 문 칠하기 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e37ef808-f6d2-4048-927d-ffd187207e02
 
 **프롬프트:**
 
@@ -207,7 +207,7 @@ Vertical photorealistic video in a bright modern home interior. A man in a fitte
 
 작성자 [@Ruslanchain](https://x.com/Ruslanchain) · 24초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-10#craft-timelapse-10)** · [원본 게시물](https://x.com/Ruslanchain/status/2116161380516601859)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-10#craft-timelapse-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-10.webp" width="320" alt="LP판 에폭시 바닥 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b4957db9-ea2e-439e-a23f-5b113b519757
 
 **프롬프트:**
 
@@ -220,7 +220,7 @@ Vertical video, static wide shot of an empty white room with a large window show
 
 작성자 [@Ruslanchain](https://x.com/Ruslanchain) · 24초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-11#craft-timelapse-11)** · [원본 게시물](https://x.com/Ruslanchain/status/2118023608815571361)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-11#craft-timelapse-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-11.webp" width="320" alt="폐타이어로 만든 인피니티 미러 테이블 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a2352d5b-f26d-4725-962e-97309a2d59db
 
 **프롬프트:**
 
@@ -233,7 +233,7 @@ Vertical DIY video, photorealistic style. A man in a black baseball cap, gray t-
 
 작성자 [@Ruslanchain](https://x.com/Ruslanchain) · 24초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-12#craft-timelapse-12)** · [원본 게시물](https://x.com/Ruslanchain/status/2118975574861336982)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-12#craft-timelapse-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-12.webp" width="320" alt="하트 무늬 에폭시 바닥 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/28fd80c4-405f-4025-9553-cdcf283a8dff
 
 **프롬프트:**
 
@@ -246,7 +246,7 @@ A satisfying DIY renovation video inside a bright empty room with white walls an
 
 작성자 [@Ruslanchain](https://x.com/Ruslanchain) · 24초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-13#craft-timelapse-13)** · [원본 게시물](https://x.com/Ruslanchain/status/2119093181585179086)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-13#craft-timelapse-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-13.webp" width="320" alt="장미 꽃잎 에폭시 바닥 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/530479d8-0a7a-4c7f-93fa-d34032cc76e5
 
 **프롬프트:**
 

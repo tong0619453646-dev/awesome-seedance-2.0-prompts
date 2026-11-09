@@ -51,7 +51,7 @@
 
 by [@CoffeeVectors](https://x.com/CoffeeVectors) · 14s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-01#action-01)** · [Original post](https://x.com/CoffeeVectors/status/2021713445855355226)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-01#action-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-01.webp" width="560" alt="Running with a bag of gold, diving off a ship – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/78d301a8-0798-4c99-846e-a0860916835a
 
 **Prompt:**
 
@@ -65,7 +65,7 @@ camera follow him underwater.
 
 by [@mimu_ai1](https://x.com/mimu_ai1) · 10s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-02#action-02)** · [Original post](https://x.com/mimu_ai1/status/2091215411341930633)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-02#action-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-02.webp" width="560" alt="A martial arts fight inside a jewelry boutique – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/42027033-7a36-4323-8ee4-32092c469add
 
 **Prompt:**
 
@@ -78,7 +78,7 @@ A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. 
 
 by [@Just_sharon7](https://x.com/Just_sharon7) · 17s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-03#action-03)** · [Original post](https://x.com/Just_sharon7/status/2091546827212636576)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-03#action-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-03.webp" width="560" alt="A motorcycle carving a mountain road – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4216ad2d-c422-4f49-af02-c2b2126442f9
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -160,7 +160,7 @@ Premium AAA quality, photorealistic cinematic rendering, pure speed and freedom 
 
 by [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 20s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-04#action-04)** · [Original post](https://x.com/ayzalnooor24521/status/2099725642736845113)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-04#action-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-04.webp" width="560" alt="An action heroine bursts out of a subway pillar – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6c24b3fa-f030-4620-9548-bec44e6d9a19
 
 **Prompt:**
 
@@ -173,7 +173,7 @@ Created a 20-second cinematic video in a realistic Korean action-drama style, fe
 
 by [@Zyrellix](https://x.com/Zyrellix) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-05#action-05)** · [Original post](https://x.com/Zyrellix/status/2092828997662978051)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-05#action-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-05.webp" width="560" alt="A dragon rider strikes an armored giant – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/8e985058-f24d-4410-8d02-f4b6ba16660d
 
 **Prompt:**
 
@@ -186,7 +186,7 @@ A low-angle dynamic action tracking shot in a apocalyptic, ruined city modern ur
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 32s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-06#action-06)** · [Original post](https://x.com/Aiwithmaha/status/2104390191352103147)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-06#action-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-06.webp" width="560" alt="A heroine with mechanical wings fights a giant beast – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9b312fb3-bb15-4d21-bf56-b7194554cf60
 
 **Prompt:**
 
@@ -199,7 +199,7 @@ Create a 31-second ultra-realistic cinematic action sequence set in a destroyed 
 
 by [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 30s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-07#action-07)** · [Original post](https://x.com/ayzalnooor24521/status/2113128549930729895)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-07#action-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-07.webp" width="320" alt="An acrobat leaps across poles above a lake – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f658cf37-3b69-4745-9a2f-f40a82b1590f
 
 **Prompt:**
 
@@ -212,7 +212,7 @@ Create it 30-second video featuring a breathtaking cinematic acrobatic performan
 
 by [@AIwithMinal](https://x.com/AIwithMinal) · 30s · 21:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-08#action-08)** · [Original post](https://x.com/AIwithMinal/status/2100444829880914240)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-08#action-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-08.webp" width="560" alt="A martial artist in a Korean courtyard – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c38ab3f5-6730-427a-9c86-f2a8c1a545ef
 
 **Prompt:**
 
@@ -225,7 +225,7 @@ Ultra-realistic cinematic scene of a fierce young woman standing confidently in 
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 20s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-09#action-09)** · [Original post](https://x.com/Aiwithmaha/status/2111646777187450940)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-09#action-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-09.webp" width="560" alt="A lion leaps at a woman taking photos at the zoo – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c143db0f-79ab-430f-8ca8-794450782abb
 
 **Prompt:**
 
@@ -238,7 +238,7 @@ Create a 20-second cinematic, ultra-realistic AI video featuring a young Korean 
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 46s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-10#action-10)** · [Original post](https://x.com/Aiwithmaha/status/2108380075796418791)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-10#action-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-10.webp" width="560" alt="A dragon chases a woman through a container port – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1694a14b-903f-42f0-a1dc-0533efef940f
 
 **Prompt:**
 
@@ -251,7 +251,7 @@ Create a 45-second ultra-realistic cinematic action video set in a large shippin
 
 by [@Lianaalane](https://x.com/Lianaalane) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-11#action-11)** · [Original post](https://x.com/Lianaalane/status/2100088243492385019)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-11#action-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-11.webp" width="560" alt="A struggle and chase on a rainy street – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1c245bcb-9a73-4428-bf53-667277455061
 
 **Prompt:**
 
@@ -264,7 +264,7 @@ Create a 30-second cinematic, ultra-realistic live-action video set on a rainy c
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 28s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-12#action-12)** · [Original post](https://x.com/Aiwithmaha/status/2112389039341113538)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-12#action-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-12.webp" width="560" alt="Escaping a war-torn city with a rifle – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e7a96064-08c4-454b-a4ff-635fef8c8b55
 
 **Prompt:**
 
@@ -286,7 +286,7 @@ Avoid cartoon effects, distorted anatomy, extra fingers, flickering, unwanted te
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-13#action-13)** · [Original post](https://x.com/Aiwithmaha/status/2106938584431526162)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-13#action-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-13.webp" width="560" alt="A tiger warrior fights in burning ruins – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/75aec55f-a090-45c6-8d77-da6bdc92d085
 
 **Prompt:**
 
@@ -299,7 +299,7 @@ Create a cinematic 14.6-second action scene featuring a powerful anthropomorphic
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 50s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-14#action-14)** · [Original post](https://x.com/Aiwithmaha/status/2102260032348078455)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-14#action-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-14.webp" width="560" alt="Running through an old Korean market in hanbok – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d4761735-6181-4be3-9d16-df7429eb9973
 
 **Prompt:**
 
@@ -312,7 +312,7 @@ Created a beautiful Korean girl walking confidently through a traditional Korean
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-15#action-15)** · [Original post](https://x.com/Aiwithmaha/status/2109137173224337478)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-15#action-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-15.webp" width="560" alt="A silver-haired warrior charges with a flaming spear – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6380d81e-f102-4e43-9d1c-d364bc516894
 
 **Prompt:**
 
@@ -325,7 +325,7 @@ Created a 15-second ultra-realistic cinematic fantasy action video featuring a p
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-16#action-16)** · [Original post](https://x.com/Aiwithmaha/status/2105162931847807476)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-16#action-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-16.webp" width="560" alt="A swordswoman in red fights at night in a village – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ea1ce8ad-146c-4c0d-8e8e-af3a74e01316
 
 **Prompt:**
 
@@ -338,7 +338,7 @@ Create a 30-second cinematic, ultra-realistic wuxia-style video set at night in 
 
 by [@Weeleey6](https://x.com/Weeleey6) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-17#action-17)** · [Original post](https://x.com/Weeleey6/status/2089244905960821226)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-17#action-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-17.webp" width="560" alt="One-shot jet attack on a sea monster – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e406c624-375b-4b0e-907e-97fc24d62dbc
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -372,7 +372,7 @@ RULES: References are appearance only, do not recreate. The monster is a stylize
 
 by [@yourPlugAI](https://x.com/yourPlugAI) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-18#action-18)** · [Original post](https://x.com/yourPlugAI/status/2089009512854200745)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-18#action-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-18.webp" width="560" alt="Close-quarters combat at the Shibuya crossing – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4bb8eb3d-5558-4f7c-b03a-5198dbeb46a1
 
 **Prompt:**
 
@@ -430,7 +430,7 @@ Flow: rapid circular redirects (Tai Chi) into lightning-fast hard strikes (Muay 
 
 by [@yudotanaka](https://x.com/yudotanaka) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-19#action-19)** · [Original post](https://x.com/yudotanaka/status/2079900274064490842)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-19#action-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-19.webp" width="560" alt="A parkour sequence written in YAML – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ca98c1bf-d7c7-4b3f-be7e-a06d6a2198a3
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -584,7 +584,7 @@ output_rules:
 
 by [@luxaios](https://x.com/luxaios) · 9s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-20#action-20)** · [Original post](https://x.com/luxaios/status/2080628740955218120)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-20#action-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-20.webp" width="320" alt="A cyberpunk blade fight in 7 seconds – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/35c42e66-11c3-49e9-bd2a-1c03923988aa
 
 **Prompt:**
 
@@ -625,7 +625,7 @@ Negative prompt: blood, gore, wounds, severed limbs, visible injury, slow clumsy
 
 by [@DanaGreenAI](https://x.com/DanaGreenAI) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-21#action-21)** · [Original post](https://x.com/DanaGreenAI/status/2022060390411383290)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-21#action-21"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-21.webp" width="560" alt="A convoy breakout between two walls of water – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1d1affea-8ca6-4937-b9eb-6ba7e49bbe3f
 
 **Prompt:**
 
@@ -638,7 +638,7 @@ A multi shot high action epic video about exodus story in the style of mad max
 
 by [@AIwithMinal](https://x.com/AIwithMinal) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-22#action-22)** · [Original post](https://x.com/AIwithMinal/status/2113849008812872170)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-22#action-22"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-22.webp" width="560" alt="A warrior clears a hanbok-era street – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0d64047c-0bc6-470d-b113-8ffbcf5dd75e
 
 **Prompt:**
 
@@ -651,7 +651,7 @@ Create a cinematic, ultra-realistic video of a fearless warrior with intense eye
 
 by [@AIVideoDotCom](https://x.com/AIVideoDotCom) · 7s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-23#action-23)** · [Original post](https://x.com/AIVideoDotCom/status/2021708002286501951)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-23#action-23"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-23.webp" width="560" alt="Two boxers sparring, handheld – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1e488500-39a7-4685-9ef7-33c202fc69ab
 
 **Prompt:**
 
@@ -668,7 +668,7 @@ movement: smooth parallax, consistent objects, stable faces; no text
 
 by [@pewdenai](https://x.com/pewdenai) · 20s · 21:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-24#action-24)** · [Original post](https://x.com/pewdenai/status/2021648907915411795)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-24#action-24"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-24.webp" width="560" alt="A WWII motorcycle escape – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/eae68ca2-80ec-4625-a8ef-5523227649ad
 
 **Prompt:**
 
@@ -681,7 +681,7 @@ Create a cinematic WW2 motorcycle escape sequence that makes sora and veo questi
 
 by [@hckinz](https://x.com/hckinz) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-25#action-25)** · [Original post](https://x.com/hckinz/status/2022062799732777214)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-25#action-25"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-25.webp" width="560" alt="A duel through a bamboo forest at dusk – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/2d9d5ea6-d0f4-4833-87fd-5d85f4460551
 
 **Prompt:**
 

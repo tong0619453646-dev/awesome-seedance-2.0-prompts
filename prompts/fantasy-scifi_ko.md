@@ -50,7 +50,7 @@
 
 작성자 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 25초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-01#fantasy-scifi-01)** · [원본 게시물](https://x.com/ayzalnooor24521/status/2108503425277391053)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-01#fantasy-scifi-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-01.webp" width="560" alt="빨래 밑에 숨은 아기 드래곤과 여인 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/8466754a-7f97-4273-bfd6-7bc6c2f57d69
 
 **프롬프트:**
 
@@ -63,7 +63,7 @@ Create a 25-second cinematic, ultra-realistic fantasy video featuring a beautifu
 
 작성자 [@markgadala](https://x.com/markgadala) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-02#fantasy-scifi-02)** · [원본 게시물](https://x.com/markgadala/status/2021615497670737953)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-02#fantasy-scifi-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-02.webp" width="560" alt="해적선을 습격하는 크라켄 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/00b771a9-05c7-46c0-b7df-c643328843f2
 
 **프롬프트:**
 
@@ -77,7 +77,7 @@ cinematic movie scene
 
 작성자 [@Inshrah_ali_](https://x.com/Inshrah_ali_) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-03#fantasy-scifi-03)** · [원본 게시물](https://x.com/Inshrah_ali_/status/2082761095538790899)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-03#fantasy-scifi-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-03.webp" width="560" alt="신전에서 황금 에너지를 부르는 춤 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/18eeb64e-7839-4289-b791-96589f8d4f18
 
 **프롬프트:**
 
@@ -90,7 +90,7 @@ Inside an enormous ancient temple with towering stone pillars, cracked marble fl
 
 작성자 [@Zyrellix](https://x.com/Zyrellix) · 30초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-04#fantasy-scifi-04)** · [원본 게시물](https://x.com/Zyrellix/status/2092121112746287527)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-04#fantasy-scifi-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-04.webp" width="560" alt="용암 구체를 부수는 전사와 백룡 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0b3b595f-e1d6-4881-bbbc-52cc4c1b6977
 
 **프롬프트:**
 
@@ -103,7 +103,7 @@ A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of 
 
 작성자 [@minuitIA](https://x.com/minuitIA) · 21초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-05#fantasy-scifi-05)** · [원본 게시물](https://x.com/minuitIA/status/2092285935056568787)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-05#fantasy-scifi-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-05.webp" width="560" alt="폭풍을 멈추고 숲을 되감는 붉은 마법사 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/db2d9684-546f-4b2b-a529-f2856c67071b
 
 **프롬프트:**
 
@@ -137,7 +137,7 @@ no music, no subtitle
 
 작성자 [@Dheepanratnam](https://x.com/Dheepanratnam) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-06#fantasy-scifi-06)** · [원본 게시물](https://x.com/Dheepanratnam/status/2021689626092589532)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-06#fantasy-scifi-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-06.webp" width="560" alt="뇌우 속 떠다니는 섬 위의 전투 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/67e86446-fcbf-4138-ae56-b3d1e154ae24
 
 **프롬프트:**
 
@@ -159,7 +159,7 @@ and clears the sky in a blinding flash. 720p 16:9 15 seconds
 
 작성자 [@RuzainaMeer](https://x.com/RuzainaMeer) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-07#fantasy-scifi-07)** · [원본 게시물](https://x.com/RuzainaMeer/status/2092195435385630983)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-07#fantasy-scifi-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-07.webp" width="560" alt="강물 속 장난감 용이 거대해지기 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ac56f7e2-e9bd-4114-ae6b-5d110111e5ea
 
 **프롬프트:**
 
@@ -172,7 +172,7 @@ and clears the sky in a blinding flash. 720p 16:9 15 seconds
 
 작성자 [@Aiwithmaha](https://x.com/Aiwithmaha) · 53초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-08#fantasy-scifi-08)** · [원본 게시물](https://x.com/Aiwithmaha/status/2102572922674225517)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-08#fantasy-scifi-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-08.webp" width="560" alt="추락 후 금빛 눈으로 깨어난 분홍 머리 소녀 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ba9cd2a9-20cf-4f8e-b4da-81f6fa13e5bb
 
 **프롬프트:**
 
@@ -185,7 +185,7 @@ Created a dramatic top-down shot of a pink-haired anime-style girl falling throu
 
 작성자 [@Aiwithmaha](https://x.com/Aiwithmaha) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-09#fantasy-scifi-09)** · [원본 게시물](https://x.com/Aiwithmaha/status/2100417339716141116)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-09#fantasy-scifi-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-09.webp" width="560" alt="폭풍 하늘의 전사와 드래곤 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/afcc8700-43e1-4e1b-a5e9-01d0f7ef0bae
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -200,7 +200,7 @@ Create a 15-second cinematic fantasy battle video matching the reference: 0–1s
 
 작성자 [@Aiwithmaha](https://x.com/Aiwithmaha) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-10#fantasy-scifi-10)** · [원본 게시물](https://x.com/Aiwithmaha/status/2104754431434887271)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-10#fantasy-scifi-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-10.webp" width="560" alt="석양 폐허 속 물과 불의 대결 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a8bb33b6-b2b7-419a-b697-4a51c9f4bd8e
 
 **프롬프트:**
 
@@ -213,7 +213,7 @@ Created a 15-second cinematic fantasy battle scene in a ruined ancient city at s
 
 작성자 [@AIwithMinal](https://x.com/AIwithMinal) · 20초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-11#fantasy-scifi-11)** · [원본 게시물](https://x.com/AIwithMinal/status/2094297733175902349)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-11#fantasy-scifi-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-11.webp" width="560" alt="지진 도시에서 날아오는 잔해를 막는 여자 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b71f37f7-10e6-44e0-ba12-0d78915055fd
 
 **프롬프트:**
 
@@ -226,7 +226,7 @@ Ultra-realistic cinematic disaster scene in a modern city, a brave young woman i
 
 작성자 [@LudovicCreator](https://x.com/LudovicCreator) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-12#fantasy-scifi-12)** · [원본 게시물](https://x.com/LudovicCreator/status/2080593896451473497)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-12#fantasy-scifi-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-12.webp" width="560" alt="우주선 조종석 FPV 비행 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/af66af28-fc84-4f92-956c-5984b41042cd
 
 **프롬프트:**
 
@@ -239,7 +239,7 @@ Immersive first-person spaceship cockpit perspective, no visible pilot, no HUD, 
 
 작성자 [@AvelyrahnAI](https://x.com/AvelyrahnAI) · 30초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-13#fantasy-scifi-13)** · [원본 게시물](https://x.com/AvelyrahnAI/status/2090083594622435553)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-13#fantasy-scifi-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-13.webp" width="560" alt="메카로 변신해 악마와 싸우는 소녀 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/fff23a4c-5c4c-4d84-b6fc-a8fccacdce62
 
 **프롬프트:**
 
@@ -260,7 +260,7 @@ Aesthetics: High-end blockbuster movie style, photorealistic textures, dramatic 
 
 작성자 [@LudovicCreator](https://x.com/LudovicCreator) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-14#fantasy-scifi-14)** · [원본 게시물](https://x.com/LudovicCreator/status/2081092171428401560)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-14#fantasy-scifi-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-14.webp" width="560" alt="불사조 기사 변신 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9bf27d9f-2524-4b75-a9b8-d5f092f987d3
 
 **프롬프트:**
 
@@ -275,7 +275,7 @@ Made  in @LumaLabsAI #LumaCPP
 
 작성자 [@abxxai](https://x.com/abxxai) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-15#fantasy-scifi-15)** · [원본 게시물](https://x.com/abxxai/status/2081023473305162165)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-15#fantasy-scifi-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-15.webp" width="560" alt="얼어붙은 계곡에서 깨어나는 얼음 거인 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/96603290-faf6-4c32-971c-60b23a64acb9
 
 > 📎 이 예시는 참조 이미지나 영상을 직접 올려야 합니다.
 
@@ -358,7 +358,7 @@ One shared valley, one @titan, same @wardens and @warhorn across all five cuts, 
 
 작성자 [@dipperdao](https://x.com/dipperdao) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-16#fantasy-scifi-16)** · [원본 게시물](https://x.com/dipperdao/status/2021689147485040917)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-16#fantasy-scifi-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-16.webp" width="560" alt="건물만 한 괴물에게서 도망치기 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e20a0405-fd85-4df7-a2eb-85eac1253b77
 
 **프롬프트:**
 
@@ -372,7 +372,7 @@ is coming close, using Arcane style.
 
 작성자 [@IqrasaifiAI](https://x.com/IqrasaifiAI) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-17#fantasy-scifi-17)** · [원본 게시물](https://x.com/IqrasaifiAI/status/2113351475015610871)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-17#fantasy-scifi-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-17.webp" width="560" alt="부서진 얼음에서 솟구치는 발키리 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4185c215-a4fc-40c4-9344-2e20efa0770c
 
 **프롬프트:**
 
@@ -389,7 +389,7 @@ Timeline:
 
 작성자 [@AIwithMinal](https://x.com/AIwithMinal) · 14초 · 4:3 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-18#fantasy-scifi-18)** · [원본 게시물](https://x.com/AIwithMinal/status/2117120914139619479)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-18#fantasy-scifi-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-18.webp" width="560" alt="네온 도시를 나는 마녀 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9972a6b8-e4be-4712-9f50-2cfee9b04e99
 
 **프롬프트:**
 
@@ -402,7 +402,7 @@ Create an ultra-realistic cinematic fantasy video featuring a mysterious young w
 
 작성자 [@creativesinner2](https://x.com/creativesinner2) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-19#fantasy-scifi-19)** · [원본 게시물](https://x.com/creativesinner2/status/2021644275201507502)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-19#fantasy-scifi-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-19.webp" width="560" alt="어선 옆으로 솟아오르는 바다 괴물 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f3566035-88ca-4d01-b477-0afb8aae2c69
 
 **프롬프트:**
 
@@ -416,7 +416,7 @@ bites the boat with its' teeth and drags it into the ocean"
 
 작성자 [@zaviaanroy](https://x.com/zaviaanroy) · 14초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-20#fantasy-scifi-20)** · [원본 게시물](https://x.com/zaviaanroy/status/2117760569201848392)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-20#fantasy-scifi-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-20.webp" width="320" alt="용과 불사조를 부르는 두 무사 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6c1bedf7-76f1-420d-aed6-9c3f6e8d1541
 
 **프롬프트:**
 
@@ -443,7 +443,7 @@ No cartoon style, no blurry faces, no distorted bodies, no extra limbs, no water
 
 작성자 [@CoffeeVectors](https://x.com/CoffeeVectors) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-21#fantasy-scifi-21)** · [원본 게시물](https://x.com/CoffeeVectors/status/2021463701421699374)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-21#fantasy-scifi-21"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-21.webp" width="560" alt="눈이 빛나며 하늘로 솟구치는 여자 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d4d75ff8-4267-466e-8247-59ac4b0a77b8
 
 **프롬프트:**
 
@@ -458,7 +458,7 @@ rapidly zooms out as she launches powerfully upward into the air, her body
 
 작성자 [@ScaleCheck](https://x.com/ScaleCheck) · 9초 · 9:16 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-22#fantasy-scifi-22)** · [원본 게시물](https://x.com/ScaleCheck/status/2119220329570762887)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-22#fantasy-scifi-22"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-22.webp" width="320" alt="거미줄 숲의 거미 여왕 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d1ce02ef-6205-4626-beac-7a59bc9ffff5
 
 **프롬프트:**
 
@@ -471,7 +471,7 @@ Cinematic horror, tense and suspenseful. Dark forest at night, thick spider webs
 
 작성자 [@MxCaptures](https://x.com/MxCaptures) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-23#fantasy-scifi-23)** · [원본 게시물](https://x.com/MxCaptures/status/2114387454757134521)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-23#fantasy-scifi-23"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-23.webp" width="560" alt="비행 생물과 협곡을 건너는 라이더 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1a08f265-8829-479b-93ae-f0ff0db6b935
 
 **프롬프트:**
 
@@ -484,7 +484,7 @@ Sera Nyx again, and this time her creature flies. A canyon, a swing on a cable o
 
 작성자 [@MxCaptures](https://x.com/MxCaptures) · 15초 · 16:9 · **[▶ APIKO에서 실행](https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-24#fantasy-scifi-24)** · [원본 게시물](https://x.com/MxCaptures/status/2113525990592848305)
 
-<a href="https://apiko.app/ko/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-24#fantasy-scifi-24"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-24.webp" width="560" alt="태양에서 톱니 섬으로 떨어지기 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0c51f5de-7b32-4d15-acae-1b1f86a9f11f
 
 **프롬프트:**
 

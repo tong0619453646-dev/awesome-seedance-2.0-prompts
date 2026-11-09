@@ -47,7 +47,7 @@
 
 by [@juliaevee](https://x.com/juliaevee) · 15s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-01#product-01)** · [Original post](https://x.com/juliaevee/status/2092783528887083290)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-01#product-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-01.webp" width="320" alt="A jeweled scorpion turns into a high heel – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4afee007-7952-4900-9a74-51379a77a4f0
 
 **Prompt:**
 
@@ -60,7 +60,7 @@ A close-up vertical shot in 4K resolution depicting a magical transformation. A 
 
 by [@Caden_Flux](https://x.com/Caden_Flux) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-02#product-02)** · [Original post](https://x.com/Caden_Flux/status/2103788406392213575)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-02#product-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-02.webp" width="560" alt="A mugshot-style fashion editorial – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/195ba2d4-7218-4157-befd-a145bf199044
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -160,7 +160,7 @@ Overall feeling: playful troublemaker + luxury fashion campaign + cinematic mugs
 
 by [@IsabellaHan_](https://x.com/IsabellaHan_) · 15s · 3:4 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-03#product-03)** · [Original post](https://x.com/IsabellaHan_/status/2081055849556877749)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-03#product-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-03.webp" width="320" alt="A skincare vlog with a rubber duck – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/63c3c5ae-b484-44fb-a2a5-e11a141d4f96
 
 **Prompt:**
 
@@ -195,7 +195,7 @@ Cinematic vertical 9:16 beauty vlog style, 4k resolution, ultra-realistic textur
 
 by [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-04#product-04)** · [Original post](https://x.com/ayzalnooor24521/status/2100456445900710158)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-04#product-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-04.webp" width="560" alt="A red-dress transformation on a Paris street – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/bbc12f22-9798-4ae6-a663-a9d5cb3d5686
 
 **Prompt:**
 
@@ -208,7 +208,7 @@ Created a cinematic fashion transformation video featuring a beautiful young wom
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 15s · 3:4 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-05#product-05)** · [Original post](https://x.com/Aiwithmaha/status/2101138386132386252)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-05#product-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-05.webp" width="320" alt="A sunlit skincare ritual – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/2d39dcfe-87de-422f-9c44-9e540ad2f020
 
 **Prompt:**
 
@@ -221,7 +221,7 @@ Create a 15-second photorealistic skincare video featuring a young Korean woman 
 
 by [@Just_sharon7](https://x.com/Just_sharon7) · 9s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-06#product-06)** · [Original post](https://x.com/Just_sharon7/status/2093171913698988151)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-06#product-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-06.webp" width="560" alt="Outfit changes through a pixel field – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9208ed04-252b-4175-81e1-bfdbdd4674d1
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -830,7 +830,7 @@ THE PERSON NEVER CHANGES.
 
 by [@RuzainaMeer](https://x.com/RuzainaMeer) · 12s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-07#product-07)** · [Original post](https://x.com/RuzainaMeer/status/2079141591449739775)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-07#product-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-07.webp" width="560" alt="A UGC steak ad with a cartoon cat – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/7ff0b27a-7834-4f61-8dcc-fc5d6dfc93bc
 
 **Prompt:**
 
@@ -843,7 +843,7 @@ A highly realistic 12-second vertical UGC-style commercial filmed on a smartphon
 
 by [@Lianaalane](https://x.com/Lianaalane) · 28s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-08#product-08)** · [Original post](https://x.com/Lianaalane/status/2109148182873845918)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-08#product-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-08.webp" width="320" alt="A facial at a luxury skincare clinic – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/67720663-89df-486a-9465-4b04dfa7b0c0
 
 **Prompt:**
 
@@ -868,7 +868,7 @@ Maintain consistent facial identity, hairstyle, body proportions, and clothing t
 
 by [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 30s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-09#product-09)** · [Original post](https://x.com/ayzalnooor24521/status/2097194787564658942)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-09#product-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-09.webp" width="320" alt="A blue gemstone necklace in morning light – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0e609f39-daa7-45df-9252-4a3b678e39c1
 
 **Prompt:**
 
@@ -890,7 +890,7 @@ Soft cinematic lighting, warm golden tones, luxury commercial aesthetic, smooth 
 
 by [@Lianaalane](https://x.com/Lianaalane) · 15s · 1:1 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-10#product-10)** · [Original post](https://x.com/Lianaalane/status/2091392675912221176)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-10#product-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-10.webp" width="560" alt="Air-fried chicken and fries in one basket – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e4cdc516-f902-4929-b84f-248706e9d6c8
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -935,7 +935,7 @@ Important: Keep the air fryer design consistent with the reference. Do not chang
 
 by [@Zyrellix](https://x.com/Zyrellix) · 15s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-11#product-11)** · [Original post](https://x.com/Zyrellix/status/2091393149805756450)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-11#product-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-11.webp" width="320" alt="A serum ad on a dark mirror surface – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/2f81bd21-6a21-4e5b-886b-9680f238f433
 
 **Prompt:**
 
@@ -950,7 +950,7 @@ Shot at 60fps slow motion, smooth cinematic camera pans, dramatic rim lighting, 
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-12#product-12)** · [Original post](https://x.com/Aiwithmaha/status/2101887507059351894)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-12#product-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-12.webp" width="560" alt="A face cream surrounded by water and flowers – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/54fbf449-afc5-494f-b189-3569c012bf0b
 
 **Prompt:**
 
@@ -963,7 +963,7 @@ Create a 15-second ultra-realistic luxury skincare commercial featuring an elega
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 10s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-13#product-13)** · [Original post](https://x.com/Aiwithmaha/status/2102952087823044888)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-13#product-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-13.webp" width="320" alt="Unboxing and swatching a pink lip gloss – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/17535937-1bf6-4901-a4e2-4d7d654f0017
 
 **Prompt:**
 
@@ -976,7 +976,7 @@ Create a realistic 10-second vertical beauty product video showing hands opening
 
 by [@Lianaalane](https://x.com/Lianaalane) · 16s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-14#product-14)** · [Original post](https://x.com/Lianaalane/status/2093553083104350554)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-14#product-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-14.webp" width="320" alt="A morning gym ad with strength training – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a8fe537a-eb7e-4f1c-ab72-8b9a0f4d8289
 
 **Prompt:**
 
@@ -989,7 +989,7 @@ Create a 15-second ultra-realistic  morning gym advertisement featuring the same
 
 by [@olivajaneAI](https://x.com/olivajaneAI) · 8s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-15#product-15)** · [Original post](https://x.com/olivajaneAI/status/2113142343675297826)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-15#product-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-15.webp" width="560" alt="An 8-second spice commercial – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/2a7247d1-9ffd-4915-93da-f81d6fc8a7f9
 
 **Prompt:**
 
@@ -1031,7 +1031,7 @@ No people. No kitchen. No utensils. Only premium ingredients, luxury food-commer
 
 by [@Goodmanprotocol](https://x.com/Goodmanprotocol) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-16#product-16)** · [Original post](https://x.com/Goodmanprotocol/status/2078490755958780363)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-16#product-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-16.webp" width="560" alt="A wireless earbuds product review – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/51b8ede9-366b-4117-975a-1f988b951c95
 
 **Prompt:**
 
@@ -1044,7 +1044,7 @@ A young creator walks into a bright living room holding a pair of sleek wireless
 
 by [@Diplomeme](https://x.com/Diplomeme) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-17#product-17)** · [Original post](https://x.com/Diplomeme/status/2079455816772649210)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-17#product-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-17.webp" width="560" alt="A UGC fashion ad for an embroidered dress – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4cf0e14b-9b6a-473b-9271-e74f37488e26
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -1086,7 +1086,7 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 by [@AIwithMinal](https://x.com/AIwithMinal) · 17s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-18#product-18)** · [Original post](https://x.com/AIwithMinal/status/2114590512208638086)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-18#product-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-18.webp" width="560" alt="A luxury car cruising a city at golden hour – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/dbe6ac57-b34c-4629-ab80-69c26b202c14
 
 **Prompt:**
 
@@ -1099,7 +1099,7 @@ Create a cinematic luxury car video featuring a sleek, premium vehicle cruising 
 
 by [@ZarnishNael](https://x.com/ZarnishNael) · 10s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-19#product-19)** · [Original post](https://x.com/ZarnishNael/status/2118559810035593407)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-19#product-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-19.webp" width="320" alt="A futuristic sneaker in exploded view – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e5797e41-2d04-4702-acc1-07e905191934
 
 **Prompt:**
 
@@ -1115,7 +1115,7 @@ Next, show hands assembling the sneaker layer by layer with precise mechanical m
 
 by [@thesocialalpha_](https://x.com/thesocialalpha_) · 6s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-20#product-20)** · [Original post](https://x.com/thesocialalpha_/status/2073075642996777159)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-20#product-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-20.webp" width="560" alt="A papercut-style perfume showcase – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/62f3ed2b-9ede-4eb7-a151-88a98d311fb1
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -1139,7 +1139,7 @@ Constraints: no new text, no misspellings, no duplicated labels, no warped produ
 
 by [@KrevixAi](https://x.com/KrevixAi) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-21#product-21)** · [Original post](https://x.com/KrevixAi/status/2080960631180570913)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=product-21#product-21"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/product-21.webp" width="560" alt="A luxury salon makeover – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/74a7dd5a-00df-41d6-9495-c36b201d5754
 
 **Prompt:**
 

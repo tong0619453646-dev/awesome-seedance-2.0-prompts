@@ -21,7 +21,7 @@
 
 **Seedance 2.0 prompts: 175 copyable video prompts with the clips they made, from anime and claymation to action, beauty ads, vlogs and DIY time-lapses.**
 
-Each prompt is shown with the clip it produced. Copy it, or open it on the model page with the duration and aspect already set.
+Each prompt is shown with the clip it produced. Copy it, or open it on the model page with the duration and aspect already set. Every result video plays right here on GitHub.
 
 Search and filter them on [apiko.app/seedance-2-0-prompts](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts&utm_content=intro).
 
@@ -101,7 +101,7 @@ Four structures that recur in the prompts on this page.
 
 by [@Just_sharon7](https://x.com/Just_sharon7) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-01#cinematic-01)** · [Original post](https://x.com/Just_sharon7/status/2084901309988425731)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-01#cinematic-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-01.webp" width="560" alt="Two cats ride a red scooter, filmed from a car – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a73e7827-858a-4f85-862a-f39b6bd24fd8
 
 **Prompt:**
 
@@ -114,7 +114,7 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 
 by [@Zyrellix](https://x.com/Zyrellix) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-04#fantasy-scifi-04)** · [Original post](https://x.com/Zyrellix/status/2092121112746287527)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-04#fantasy-scifi-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-04.webp" width="560" alt="A warrior and a white dragon shatter a molten orb – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0b3b595f-e1d6-4881-bbbc-52cc4c1b6977
 
 **Prompt:**
 
@@ -127,7 +127,7 @@ A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of 
 
 by [@miilesus](https://x.com/miilesus) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-19#animation-19)** · [Original post](https://x.com/miilesus/status/2080744222571848176)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=animation-19#animation-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/animation-19.webp" width="560" alt="Claymation Odysseus meets the Cyclops – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1b395962-dc6f-45db-a475-1c178df27617
 
 **Prompt:**
 
@@ -140,7 +140,7 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 
 by [@Ruslanchain](https://x.com/Ruslanchain) · 24s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-11#craft-timelapse-11)** · [Original post](https://x.com/Ruslanchain/status/2118023608815571361)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=craft-timelapse-11#craft-timelapse-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/craft-timelapse-11.webp" width="320" alt="An old tire becomes an infinity-mirror table – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a2352d5b-f26d-4725-962e-97309a2d59db
 
 **Prompt:**
 
@@ -153,7 +153,7 @@ Vertical DIY video, photorealistic style. A man in a black baseball cap, gray t-
 
 by [@mimu_ai1](https://x.com/mimu_ai1) · 10s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-02#action-02)** · [Original post](https://x.com/mimu_ai1/status/2091215411341930633)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-02#action-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/action-02.webp" width="560" alt="A martial arts fight inside a jewelry boutique – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/42027033-7a36-4323-8ee4-32092c469add
 
 **Prompt:**
 
@@ -166,7 +166,7 @@ A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. 
 
 by [@zyvaoz](https://x.com/zyvaoz) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-15#cinematic-15)** · [Original post](https://x.com/zyvaoz/status/2081398750996746385)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-15#cinematic-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-15.webp" width="560" alt="A rope bridge dissolves over a bottomless canyon – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f87e11b6-1311-4689-a53f-ce51683d2b29
 
 **Prompt:**
 

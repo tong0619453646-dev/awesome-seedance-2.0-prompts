@@ -46,7 +46,7 @@
 
 by [@Just_sharon7](https://x.com/Just_sharon7) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-01#cinematic-01)** · [Original post](https://x.com/Just_sharon7/status/2084901309988425731)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-01#cinematic-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-01.webp" width="560" alt="Two cats ride a red scooter, filmed from a car – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a73e7827-858a-4f85-862a-f39b6bd24fd8
 
 **Prompt:**
 
@@ -59,7 +59,7 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 
 by [@johnAGI168](https://x.com/johnAGI168) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-02#cinematic-02)** · [Original post](https://x.com/johnAGI168/status/2020794007291404726)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-02#cinematic-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-02.webp" width="560" alt="Epic desert storm in a 70mm film look – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/5cc6f9a5-cc3c-4ecd-87be-c213a145855f
 
 **Prompt:**
 
@@ -76,7 +76,7 @@ Duration: 15s.
 
 by [@soulful__ai](https://x.com/soulful__ai) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-03#cinematic-03)** · [Original post](https://x.com/soulful__ai/status/2103056454395855115)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-03#cinematic-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-03.webp" width="560" alt="A crow hugs a gray cat, then they walk off together – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9ad51ec0-1554-4e35-9847-2ca1647079d1
 
 **Prompt:**
 
@@ -141,7 +141,7 @@ Single continuous shot, no cuts or transitions
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-04#cinematic-04)** · [Original post](https://x.com/Aiwithmaha/status/2110921969420177453)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-04#cinematic-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-04.webp" width="560" alt="Bathing and blow-drying a giant ragdoll cat – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/5d1045a3-4ebb-486a-99e4-3b19226736f5
 
 **Prompt:**
 
@@ -154,7 +154,7 @@ by [@Aiwithmaha](https://x.com/Aiwithmaha) · 30s · 16:9 · **[▶ Run on APIKO
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 15s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-05#cinematic-05)** · [Original post](https://x.com/Aiwithmaha/status/2105847315609293134)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-05#cinematic-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-05.webp" width="320" alt="An orange tabby soldier in a WWI trench – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d2d26478-6f8d-41dd-bf8b-6f25d8d79fd6
 
 **Prompt:**
 
@@ -167,7 +167,7 @@ Create a 15-second vertical 9:16 photorealistic cinematic video of a cute orange
 
 by [@Lianaalane](https://x.com/Lianaalane) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-06#cinematic-06)** · [Original post](https://x.com/Lianaalane/status/2099404551199809774)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-06#cinematic-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-06.webp" width="560" alt="A bear cub drives a vintage blue car through a farm – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6868ef98-90a4-4643-a5ab-001ae98f7ee2
 
 **Prompt:**
 
@@ -180,7 +180,7 @@ Created a video in a cinematic, ultra-realistic storytelling style: a cute brown
 
 by [@ai_lifehack55](https://x.com/ai_lifehack55) · 15s · 1:1 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-07#cinematic-07)** · [Original post](https://x.com/ai_lifehack55/status/2076503632988561413)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-07#cinematic-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-07.webp" width="560" alt="A harbor town builds itself on a miniature island – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/7ea60454-edff-4ba4-9dc6-36b0934c434f
 
 **Prompt:**
 
@@ -215,7 +215,7 @@ BGMあり、効果音あり。BGMは明るく爽快で、少し冒険感のあ�
 
 by [@noorlewisx](https://x.com/noorlewisx) · 16s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-08#cinematic-08)** · [Original post](https://x.com/noorlewisx/status/2089217062040453196)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-08#cinematic-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-08.webp" width="560" alt="A pinstripe suit owns the boardroom – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/5a319fa1-f19e-4deb-893b-457a7cc8bee9
 
 **Prompt:**
 
@@ -230,7 +230,7 @@ Moody cinematic lighting, wet reflections, sharp fashion photography style, high
 
 by [@aiwithaayat](https://x.com/aiwithaayat) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-09#cinematic-09)** · [Original post](https://x.com/aiwithaayat/status/2102331859657253174)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-09#cinematic-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-09.webp" width="560" alt="A ball-on-incline experiment in a physics lab – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/c44dc8d4-ecf5-44c5-acd2-ca6d1b134be3
 
 **Prompt:**
 
@@ -243,7 +243,7 @@ Create a cinematic, realistic educational video set inside a modern university p
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-10#cinematic-10)** · [Original post](https://x.com/Aiwithmaha/status/2113222820570550355)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-10#cinematic-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-10.webp" width="560" alt="Cycling through a forest until zebras stampede – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b3a49881-564e-40c7-b886-da070749e0ea
 
 **Prompt:**
 
@@ -256,7 +256,7 @@ Create a cinematic, photorealistic 30-second video of a young woman riding a bic
 
 by [@itsSaira_1](https://x.com/itsSaira_1) · 13s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-11#cinematic-11)** · [Original post](https://x.com/itsSaira_1/status/2110947923412566187)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-11#cinematic-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-11.webp" width="560" alt="Floating figures among glowing blue windows – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9bd2ae74-6b8c-4bcb-88e1-22ebb67ebf91
 
 **Prompt:**
 
@@ -289,7 +289,7 @@ NEGATIVE PROMPT: No eyes, eyeballs, colorful neon, bright rooms, sudden cuts, fa
 
 by [@Rayko_wang](https://x.com/Rayko_wang) · 10s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-12#cinematic-12)** · [Original post](https://x.com/Rayko_wang/status/2021949028481843527)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-12#cinematic-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-12.webp" width="560" alt="An office romance played by a cat and a rabbit – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6b25a4ad-d962-432a-9043-2091f9620bb5
 
 **Prompt:**
 
@@ -303,7 +303,7 @@ girl, with anthropomorphic standing poses.
 
 by [@AIwithMinal](https://x.com/AIwithMinal) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-13#cinematic-13)** · [Original post](https://x.com/AIwithMinal/status/2093560634822762971)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-13#cinematic-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-13.webp" width="560" alt="Fingertips trace a rainy car window at night – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/84e4d7e6-0c6b-4b0b-83a6-d54d30c96975
 
 **Prompt:**
 
@@ -316,7 +316,7 @@ Cinematic close-up of a delicate feminine hand gently touching a rain-covered ca
 
 by [@PixelAigc](https://x.com/PixelAigc) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-14#cinematic-14)** · [Original post](https://x.com/PixelAigc/status/2078846287500439682)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-14#cinematic-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-14.webp" width="560" alt="A dance music video in a dark neon studio – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/49311c66-853f-4c69-8778-342b65d76505
 
 **Prompt:**
 
@@ -347,7 +347,7 @@ by [@PixelAigc](https://x.com/PixelAigc) · 15s · 16:9 · **[▶ Run on APIKO](
 
 by [@zyvaoz](https://x.com/zyvaoz) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-15#cinematic-15)** · [Original post](https://x.com/zyvaoz/status/2081398750996746385)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-15#cinematic-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-15.webp" width="560" alt="A rope bridge dissolves over a bottomless canyon – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f87e11b6-1311-4689-a53f-ce51683d2b29
 
 **Prompt:**
 
@@ -375,7 +375,7 @@ Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silen
 
 by [@RareParkStudios](https://x.com/RareParkStudios) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-16#cinematic-16)** · [Original post](https://x.com/RareParkStudios/status/2079917613149503813)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-16#cinematic-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-16.webp" width="560" alt="A music video from one image as the first frame – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b3fdb37d-6fd9-4870-ac5d-bfea72360f37
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -390,7 +390,7 @@ generate an interesting music video using this image as first frame,be professio
 
 by [@meAsifAi](https://x.com/meAsifAi) · 10s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-17#cinematic-17)** · [Original post](https://x.com/meAsifAi/status/2114406947558764575)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-17#cinematic-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-17.webp" width="320" alt="A cat in a shirt walks a hotel lobby, from a reference – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/99b61e9b-5390-4272-8c5e-c9742524bdd2
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -429,7 +429,7 @@ by [@meAsifAi](https://x.com/meAsifAi) · 10s · 9:16 · **[▶ Run on APIKO](ht
 
 by [@sebatheepan](https://x.com/sebatheepan) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-18#cinematic-18)** · [Original post](https://x.com/sebatheepan/status/2118360399057756590)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-18#cinematic-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-18.webp" width="560" alt="A mechanical fly opens up into gears – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/39aa3a2d-607c-4f77-984b-3e3f4ab1a3e2
 
 **Prompt:**
 
@@ -454,7 +454,7 @@ Camera: Start with a 100mm macro feel for shallow depth and product-style compre
 
 by [@sebatheepan](https://x.com/sebatheepan) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-19#cinematic-19)** · [Original post](https://x.com/sebatheepan/status/2080999511195828239)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-19#cinematic-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-19.webp" width="560" alt="A diva cat's luxury skincare routine – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/8a9f6ac2-e313-4f7f-a3ba-caf163ea3c56
 
 **Prompt:**
 
@@ -469,7 +469,7 @@ CAMERA / LOOK: Propped iPhone/Mini DV camcorder footage on a sleek vanity mirror
 
 by [@Nexustechai1](https://x.com/Nexustechai1) · 12s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-20#cinematic-20)** · [Original post](https://x.com/Nexustechai1/status/2081527386508611807)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-20#cinematic-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/cinematic-20.webp" width="560" alt="A card dealer's reflection turns against him – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ce5c9696-d84e-4be9-8efd-2e101d2d7b44
 
 > 📎 Upload your own reference image or clip for this one.
 

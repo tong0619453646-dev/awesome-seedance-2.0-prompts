@@ -50,7 +50,7 @@
 
 作者 [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 25 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-01#fantasy-scifi-01)** · [原帖](https://x.com/ayzalnooor24521/status/2108503425277391053)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-01#fantasy-scifi-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-01.webp" width="560" alt="晾衣女子與藏在布下的小龍 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/8466754a-7f97-4273-bfd6-7bc6c2f57d69
 
 **提示詞:**
 
@@ -63,7 +63,7 @@ Create a 25-second cinematic, ultra-realistic fantasy video featuring a beautifu
 
 作者 [@markgadala](https://x.com/markgadala) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-02#fantasy-scifi-02)** · [原帖](https://x.com/markgadala/status/2021615497670737953)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-02#fantasy-scifi-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-02.webp" width="560" alt="海怪襲擊海盜船 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/00b771a9-05c7-46c0-b7df-c643328843f2
 
 **提示詞:**
 
@@ -77,7 +77,7 @@ cinematic movie scene
 
 作者 [@Inshrah_ali_](https://x.com/Inshrah_ali_) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-03#fantasy-scifi-03)** · [原帖](https://x.com/Inshrah_ali_/status/2082761095538790899)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-03#fantasy-scifi-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-03.webp" width="560" alt="古殿中舞出金色能量 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/18eeb64e-7839-4289-b791-96589f8d4f18
 
 **提示詞:**
 
@@ -90,7 +90,7 @@ Inside an enormous ancient temple with towering stone pillars, cracked marble fl
 
 作者 [@Zyrellix](https://x.com/Zyrellix) · 30 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-04#fantasy-scifi-04)** · [原帖](https://x.com/Zyrellix/status/2092121112746287527)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-04#fantasy-scifi-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-04.webp" width="560" alt="女武士與白龍擊碎熔岩星球 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0b3b595f-e1d6-4881-bbbc-52cc4c1b6977
 
 **提示詞:**
 
@@ -103,7 +103,7 @@ A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of 
 
 作者 [@minuitIA](https://x.com/minuitIA) · 21 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-05#fantasy-scifi-05)** · [原帖](https://x.com/minuitIA/status/2092285935056568787)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-05#fantasy-scifi-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-05.webp" width="560" alt="紅袍法師凍結風暴、倒轉森林 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/db2d9684-546f-4b2b-a529-f2856c67071b
 
 **提示詞:**
 
@@ -137,7 +137,7 @@ no music, no subtitle
 
 作者 [@Dheepanratnam](https://x.com/Dheepanratnam) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-06#fantasy-scifi-06)** · [原帖](https://x.com/Dheepanratnam/status/2021689626092589532)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-06#fantasy-scifi-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-06.webp" width="560" alt="雷暴中浮空島上的戰鬥 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/67e86446-fcbf-4138-ae56-b3d1e154ae24
 
 **提示詞:**
 
@@ -159,7 +159,7 @@ and clears the sky in a blinding flash. 720p 16:9 15 seconds
 
 作者 [@RuzainaMeer](https://x.com/RuzainaMeer) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-07#fantasy-scifi-07)** · [原帖](https://x.com/RuzainaMeer/status/2092195435385630983)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-07#fantasy-scifi-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-07.webp" width="560" alt="河裡的玩具龍長成巨龍 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ac56f7e2-e9bd-4114-ae6b-5d110111e5ea
 
 **提示詞:**
 
@@ -172,7 +172,7 @@ and clears the sky in a blinding flash. 720p 16:9 15 seconds
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 53 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-08#fantasy-scifi-08)** · [原帖](https://x.com/Aiwithmaha/status/2102572922674225517)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-08#fantasy-scifi-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-08.webp" width="560" alt="粉髮女孩墜落後金瞳覺醒 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ba9cd2a9-20cf-4f8e-b4da-81f6fa13e5bb
 
 **提示詞:**
 
@@ -185,7 +185,7 @@ Created a dramatic top-down shot of a pink-haired anime-style girl falling throu
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-09#fantasy-scifi-09)** · [原帖](https://x.com/Aiwithmaha/status/2100417339716141116)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-09#fantasy-scifi-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-09.webp" width="560" alt="風暴天空中的戰士與巨龍 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/afcc8700-43e1-4e1b-a5e9-01d0f7ef0bae
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -200,7 +200,7 @@ Create a 15-second cinematic fantasy battle video matching the reference: 0–1s
 
 作者 [@Aiwithmaha](https://x.com/Aiwithmaha) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-10#fantasy-scifi-10)** · [原帖](https://x.com/Aiwithmaha/status/2104754431434887271)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-10#fantasy-scifi-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-10.webp" width="560" alt="夕陽廢墟中水火對決 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a8bb33b6-b2b7-419a-b697-4a51c9f4bd8e
 
 **提示詞:**
 
@@ -213,7 +213,7 @@ Created a 15-second cinematic fantasy battle scene in a ruined ancient city at s
 
 作者 [@AIwithMinal](https://x.com/AIwithMinal) · 20 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-11#fantasy-scifi-11)** · [原帖](https://x.com/AIwithMinal/status/2094297733175902349)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-11#fantasy-scifi-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-11.webp" width="560" alt="震後城市裡擋住飛石的女子 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b71f37f7-10e6-44e0-ba12-0d78915055fd
 
 **提示詞:**
 
@@ -226,7 +226,7 @@ Ultra-realistic cinematic disaster scene in a modern city, a brave young woman i
 
 作者 [@LudovicCreator](https://x.com/LudovicCreator) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-12#fantasy-scifi-12)** · [原帖](https://x.com/LudovicCreator/status/2080593896451473497)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-12#fantasy-scifi-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-12.webp" width="560" alt="飛船駕駛艙第一視角穿越太空 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/af66af28-fc84-4f92-956c-5984b41042cd
 
 **提示詞:**
 
@@ -239,7 +239,7 @@ Immersive first-person spaceship cockpit perspective, no visible pilot, no HUD, 
 
 作者 [@AvelyrahnAI](https://x.com/AvelyrahnAI) · 30 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-13#fantasy-scifi-13)** · [原帖](https://x.com/AvelyrahnAI/status/2090083594622435553)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-13#fantasy-scifi-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-13.webp" width="560" alt="街頭女孩變身機甲迎戰惡魔 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/fff23a4c-5c4c-4d84-b6fc-a8fccacdce62
 
 **提示詞:**
 
@@ -260,7 +260,7 @@ Aesthetics: High-end blockbuster movie style, photorealistic textures, dramatic 
 
 作者 [@LudovicCreator](https://x.com/LudovicCreator) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-14#fantasy-scifi-14)** · [原帖](https://x.com/LudovicCreator/status/2081092171428401560)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-14#fantasy-scifi-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-14.webp" width="560" alt="鳳凰騎士變身 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9bf27d9f-2524-4b75-a9b8-d5f092f987d3
 
 **提示詞:**
 
@@ -275,7 +275,7 @@ Made  in @LumaLabsAI #LumaCPP
 
 作者 [@abxxai](https://x.com/abxxai) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-15#fantasy-scifi-15)** · [原帖](https://x.com/abxxai/status/2081023473305162165)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-15#fantasy-scifi-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-15.webp" width="560" alt="冰封山谷中甦醒的冰霜泰坦 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/96603290-faf6-4c32-971c-60b23a64acb9
 
 > 📎 這則需要你自己上傳參考圖或參考影片。
 
@@ -358,7 +358,7 @@ One shared valley, one @titan, same @wardens and @warhorn across all five cuts, 
 
 作者 [@dipperdao](https://x.com/dipperdao) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-16#fantasy-scifi-16)** · [原帖](https://x.com/dipperdao/status/2021689147485040917)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-16#fantasy-scifi-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-16.webp" width="560" alt="身後追來樓一樣高的巨獸 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e20a0405-fd85-4df7-a2eb-85eac1253b77
 
 **提示詞:**
 
@@ -372,7 +372,7 @@ is coming close, using Arcane style.
 
 作者 [@IqrasaifiAI](https://x.com/IqrasaifiAI) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-17#fantasy-scifi-17)** · [原帖](https://x.com/IqrasaifiAI/status/2113351475015610871)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-17#fantasy-scifi-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-17.webp" width="560" alt="女武神從碎冰中騰起 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4185c215-a4fc-40c4-9344-2e20efa0770c
 
 **提示詞:**
 
@@ -389,7 +389,7 @@ Timeline:
 
 作者 [@AIwithMinal](https://x.com/AIwithMinal) · 14 秒 · 4:3 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-18#fantasy-scifi-18)** · [原帖](https://x.com/AIwithMinal/status/2117120914139619479)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-18#fantasy-scifi-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-18.webp" width="560" alt="女巫夜飛霓虹都市 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9972a6b8-e4be-4712-9f50-2cfee9b04e99
 
 **提示詞:**
 
@@ -402,7 +402,7 @@ Create an ultra-realistic cinematic fantasy video featuring a mysterious young w
 
 作者 [@creativesinner2](https://x.com/creativesinner2) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-19#fantasy-scifi-19)** · [原帖](https://x.com/creativesinner2/status/2021644275201507502)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-19#fantasy-scifi-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-19.webp" width="560" alt="暴風中漁船旁升起海怪 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f3566035-88ca-4d01-b477-0afb8aae2c69
 
 **提示詞:**
 
@@ -416,7 +416,7 @@ bites the boat with its' teeth and drags it into the ocean"
 
 作者 [@zaviaanroy](https://x.com/zaviaanroy) · 14 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-20#fantasy-scifi-20)** · [原帖](https://x.com/zaviaanroy/status/2117760569201848392)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-20#fantasy-scifi-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-20.webp" width="320" alt="兩位武者召喚龍與鳳凰對決 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6c1bedf7-76f1-420d-aed6-9c3f6e8d1541
 
 **提示詞:**
 
@@ -443,7 +443,7 @@ No cartoon style, no blurry faces, no distorted bodies, no extra limbs, no water
 
 作者 [@CoffeeVectors](https://x.com/CoffeeVectors) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-21#fantasy-scifi-21)** · [原帖](https://x.com/CoffeeVectors/status/2021463701421699374)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-21#fantasy-scifi-21"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-21.webp" width="560" alt="女子眼中發光後騰空而起 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d4d75ff8-4267-466e-8247-59ac4b0a77b8
 
 **提示詞:**
 
@@ -458,7 +458,7 @@ rapidly zooms out as she launches powerfully upward into the air, her body
 
 作者 [@ScaleCheck](https://x.com/ScaleCheck) · 9 秒 · 9:16 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-22#fantasy-scifi-22)** · [原帖](https://x.com/ScaleCheck/status/2119220329570762887)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-22#fantasy-scifi-22"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-22.webp" width="320" alt="蛛網森林裡的蜘蛛女王 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d1ce02ef-6205-4626-beac-7a59bc9ffff5
 
 **提示詞:**
 
@@ -471,7 +471,7 @@ Cinematic horror, tense and suspenseful. Dark forest at night, thick spider webs
 
 作者 [@MxCaptures](https://x.com/MxCaptures) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-23#fantasy-scifi-23)** · [原帖](https://x.com/MxCaptures/status/2114387454757134521)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-23#fantasy-scifi-23"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-23.webp" width="560" alt="騎手與飛行坐騎穿越峽谷 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1a08f265-8829-479b-93ae-f0ff0db6b935
 
 **提示詞:**
 
@@ -484,7 +484,7 @@ Sera Nyx again, and this time her creature flies. A canyon, a swing on a cable o
 
 作者 [@MxCaptures](https://x.com/MxCaptures) · 15 秒 · 16:9 · **[▶ 在 APIKO 執行](https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-24#fantasy-scifi-24)** · [原帖](https://x.com/MxCaptures/status/2113525990592848305)
 
-<a href="https://apiko.app/zh-tw/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-24#fantasy-scifi-24"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-24.webp" width="560" alt="從太陽墜向齒輪浮島 – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0c51f5de-7b32-4d15-acae-1b1f86a9f11f
 
 **提示詞:**
 

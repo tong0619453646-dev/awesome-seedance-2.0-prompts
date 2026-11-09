@@ -50,7 +50,7 @@
 
 by [@ayzalnooor24521](https://x.com/ayzalnooor24521) · 25s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-01#fantasy-scifi-01)** · [Original post](https://x.com/ayzalnooor24521/status/2108503425277391053)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-01#fantasy-scifi-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-01.webp" width="560" alt="A woman and a baby dragon hiding under laundry – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/8466754a-7f97-4273-bfd6-7bc6c2f57d69
 
 **Prompt:**
 
@@ -63,7 +63,7 @@ Create a 25-second cinematic, ultra-realistic fantasy video featuring a beautifu
 
 by [@markgadala](https://x.com/markgadala) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-02#fantasy-scifi-02)** · [Original post](https://x.com/markgadala/status/2021615497670737953)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-02#fantasy-scifi-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-02.webp" width="560" alt="A kraken attacks a pirate ship – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/00b771a9-05c7-46c0-b7df-c643328843f2
 
 **Prompt:**
 
@@ -77,7 +77,7 @@ cinematic movie scene
 
 by [@Inshrah_ali_](https://x.com/Inshrah_ali_) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-03#fantasy-scifi-03)** · [Original post](https://x.com/Inshrah_ali_/status/2082761095538790899)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-03#fantasy-scifi-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-03.webp" width="560" alt="A dancer summons golden energy in a temple – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/18eeb64e-7839-4289-b791-96589f8d4f18
 
 **Prompt:**
 
@@ -90,7 +90,7 @@ Inside an enormous ancient temple with towering stone pillars, cracked marble fl
 
 by [@Zyrellix](https://x.com/Zyrellix) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-04#fantasy-scifi-04)** · [Original post](https://x.com/Zyrellix/status/2092121112746287527)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-04#fantasy-scifi-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-04.webp" width="560" alt="A warrior and a white dragon shatter a molten orb – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0b3b595f-e1d6-4881-bbbc-52cc4c1b6977
 
 **Prompt:**
 
@@ -103,7 +103,7 @@ A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of 
 
 by [@minuitIA](https://x.com/minuitIA) · 21s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-05#fantasy-scifi-05)** · [Original post](https://x.com/minuitIA/status/2092285935056568787)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-05#fantasy-scifi-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-05.webp" width="560" alt="A mage freezes a storm and rewinds the forest – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/db2d9684-546f-4b2b-a529-f2856c67071b
 
 **Prompt:**
 
@@ -137,7 +137,7 @@ no music, no subtitle
 
 by [@Dheepanratnam](https://x.com/Dheepanratnam) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-06#fantasy-scifi-06)** · [Original post](https://x.com/Dheepanratnam/status/2021689626092589532)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-06#fantasy-scifi-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-06.webp" width="560" alt="A battle across floating islands in a thunderstorm – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/67e86446-fcbf-4138-ae56-b3d1e154ae24
 
 **Prompt:**
 
@@ -159,7 +159,7 @@ and clears the sky in a blinding flash. 720p 16:9 15 seconds
 
 by [@RuzainaMeer](https://x.com/RuzainaMeer) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-07#fantasy-scifi-07)** · [Original post](https://x.com/RuzainaMeer/status/2092195435385630983)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-07#fantasy-scifi-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-07.webp" width="560" alt="A toy dragon grows into a giant in a river – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ac56f7e2-e9bd-4114-ae6b-5d110111e5ea
 
 **Prompt:**
 
@@ -172,7 +172,7 @@ by [@RuzainaMeer](https://x.com/RuzainaMeer) · 15s · 16:9 · **[▶ Run on API
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 53s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-08#fantasy-scifi-08)** · [Original post](https://x.com/Aiwithmaha/status/2102572922674225517)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-08#fantasy-scifi-08"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-08.webp" width="560" alt="A pink-haired girl falls and wakes with golden eyes – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/ba9cd2a9-20cf-4f8e-b4da-81f6fa13e5bb
 
 **Prompt:**
 
@@ -185,7 +185,7 @@ Created a dramatic top-down shot of a pink-haired anime-style girl falling throu
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-09#fantasy-scifi-09)** · [Original post](https://x.com/Aiwithmaha/status/2100417339716141116)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-09#fantasy-scifi-09"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-09.webp" width="560" alt="A warrior and a dragon fight in a stormy sky – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/afcc8700-43e1-4e1b-a5e9-01d0f7ef0bae
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -200,7 +200,7 @@ Create a 15-second cinematic fantasy battle video matching the reference: 0–1s
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-10#fantasy-scifi-10)** · [Original post](https://x.com/Aiwithmaha/status/2104754431434887271)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-10#fantasy-scifi-10"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-10.webp" width="560" alt="Water and fire warriors clash in sunset ruins – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/a8bb33b6-b2b7-419a-b697-4a51c9f4bd8e
 
 **Prompt:**
 
@@ -213,7 +213,7 @@ Created a 15-second cinematic fantasy battle scene in a ruined ancient city at s
 
 by [@AIwithMinal](https://x.com/AIwithMinal) · 20s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-11#fantasy-scifi-11)** · [Original post](https://x.com/AIwithMinal/status/2094297733175902349)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-11#fantasy-scifi-11"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-11.webp" width="560" alt="Holding back flying debris in a quake-hit city – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/b71f37f7-10e6-44e0-ba12-0d78915055fd
 
 **Prompt:**
 
@@ -226,7 +226,7 @@ Ultra-realistic cinematic disaster scene in a modern city, a brave young woman i
 
 by [@LudovicCreator](https://x.com/LudovicCreator) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-12#fantasy-scifi-12)** · [Original post](https://x.com/LudovicCreator/status/2080593896451473497)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-12#fantasy-scifi-12"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-12.webp" width="560" alt="FPV flight from a spaceship cockpit – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/af66af28-fc84-4f92-956c-5984b41042cd
 
 **Prompt:**
 
@@ -239,7 +239,7 @@ Immersive first-person spaceship cockpit perspective, no visible pilot, no HUD, 
 
 by [@AvelyrahnAI](https://x.com/AvelyrahnAI) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-13#fantasy-scifi-13)** · [Original post](https://x.com/AvelyrahnAI/status/2090083594622435553)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-13#fantasy-scifi-13"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-13.webp" width="560" alt="A street girl transforms into a mech to fight a demon – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/fff23a4c-5c4c-4d84-b6fc-a8fccacdce62
 
 **Prompt:**
 
@@ -260,7 +260,7 @@ Aesthetics: High-end blockbuster movie style, photorealistic textures, dramatic 
 
 by [@LudovicCreator](https://x.com/LudovicCreator) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-14#fantasy-scifi-14)** · [Original post](https://x.com/LudovicCreator/status/2081092171428401560)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-14#fantasy-scifi-14"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-14.webp" width="560" alt="A phoenix knight's transformation – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9bf27d9f-2524-4b75-a9b8-d5f092f987d3
 
 **Prompt:**
 
@@ -275,7 +275,7 @@ Made  in @LumaLabsAI #LumaCPP
 
 by [@abxxai](https://x.com/abxxai) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-15#fantasy-scifi-15)** · [Original post](https://x.com/abxxai/status/2081023473305162165)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-15#fantasy-scifi-15"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-15.webp" width="560" alt="An ice titan wakes in a frozen valley – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/96603290-faf6-4c32-971c-60b23a64acb9
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -358,7 +358,7 @@ One shared valley, one @titan, same @wardens and @warhorn across all five cuts, 
 
 by [@dipperdao](https://x.com/dipperdao) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-16#fantasy-scifi-16)** · [Original post](https://x.com/dipperdao/status/2021689147485040917)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-16#fantasy-scifi-16"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-16.webp" width="560" alt="Running from a building-sized monster – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e20a0405-fd85-4df7-a2eb-85eac1253b77
 
 **Prompt:**
 
@@ -372,7 +372,7 @@ is coming close, using Arcane style.
 
 by [@IqrasaifiAI](https://x.com/IqrasaifiAI) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-17#fantasy-scifi-17)** · [Original post](https://x.com/IqrasaifiAI/status/2113351475015610871)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-17#fantasy-scifi-17"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-17.webp" width="560" alt="A Valkyrie rises from shattered ice – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/4185c215-a4fc-40c4-9344-2e20efa0770c
 
 **Prompt:**
 
@@ -389,7 +389,7 @@ Timeline:
 
 by [@AIwithMinal](https://x.com/AIwithMinal) · 14s · 4:3 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-18#fantasy-scifi-18)** · [Original post](https://x.com/AIwithMinal/status/2117120914139619479)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-18#fantasy-scifi-18"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-18.webp" width="560" alt="A witch flies through a neon city at night – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/9972a6b8-e4be-4712-9f50-2cfee9b04e99
 
 **Prompt:**
 
@@ -402,7 +402,7 @@ Create an ultra-realistic cinematic fantasy video featuring a mysterious young w
 
 by [@creativesinner2](https://x.com/creativesinner2) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-19#fantasy-scifi-19)** · [Original post](https://x.com/creativesinner2/status/2021644275201507502)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-19#fantasy-scifi-19"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-19.webp" width="560" alt="A sea monster rises beside a fishing boat – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/f3566035-88ca-4d01-b477-0afb8aae2c69
 
 **Prompt:**
 
@@ -416,7 +416,7 @@ bites the boat with its' teeth and drags it into the ocean"
 
 by [@zaviaanroy](https://x.com/zaviaanroy) · 14s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-20#fantasy-scifi-20)** · [Original post](https://x.com/zaviaanroy/status/2117760569201848392)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-20#fantasy-scifi-20"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-20.webp" width="320" alt="Two warriors summon a dragon and a phoenix – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/6c1bedf7-76f1-420d-aed6-9c3f6e8d1541
 
 **Prompt:**
 
@@ -443,7 +443,7 @@ No cartoon style, no blurry faces, no distorted bodies, no extra limbs, no water
 
 by [@CoffeeVectors](https://x.com/CoffeeVectors) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-21#fantasy-scifi-21)** · [Original post](https://x.com/CoffeeVectors/status/2021463701421699374)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-21#fantasy-scifi-21"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-21.webp" width="560" alt="A woman's eye glows and she launches into the sky – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d4d75ff8-4267-466e-8247-59ac4b0a77b8
 
 **Prompt:**
 
@@ -458,7 +458,7 @@ rapidly zooms out as she launches powerfully upward into the air, her body
 
 by [@ScaleCheck](https://x.com/ScaleCheck) · 9s · 9:16 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-22#fantasy-scifi-22)** · [Original post](https://x.com/ScaleCheck/status/2119220329570762887)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-22#fantasy-scifi-22"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-22.webp" width="320" alt="A spider queen in a webbed forest – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d1ce02ef-6205-4626-beac-7a59bc9ffff5
 
 **Prompt:**
 
@@ -471,7 +471,7 @@ Cinematic horror, tense and suspenseful. Dark forest at night, thick spider webs
 
 by [@MxCaptures](https://x.com/MxCaptures) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-23#fantasy-scifi-23)** · [Original post](https://x.com/MxCaptures/status/2114387454757134521)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-23#fantasy-scifi-23"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-23.webp" width="560" alt="A rider and her flying creature cross a canyon – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/1a08f265-8829-479b-93ae-f0ff0db6b935
 
 **Prompt:**
 
@@ -484,7 +484,7 @@ Sera Nyx again, and this time her creature flies. A canyon, a swing on a cable o
 
 by [@MxCaptures](https://x.com/MxCaptures) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-24#fantasy-scifi-24)** · [Original post](https://x.com/MxCaptures/status/2113525990592848305)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=fantasy-scifi-24#fantasy-scifi-24"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/fantasy-scifi-24.webp" width="560" alt="Falling from the sun toward islands of gears – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/0c51f5de-7b32-4d15-acae-1b1f86a9f11f
 
 **Prompt:**
 

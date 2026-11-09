@@ -33,7 +33,7 @@
 
 by [@AIwithJessica](https://x.com/AIwithJessica) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-01#drama-01)** · [Original post](https://x.com/AIwithJessica/status/2088855031864832096)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-01#drama-01"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-01.webp" width="560" alt="Three friends pretend to be DJs at a night party – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/8c3e34e7-f90a-4287-8766-0cc5c574401b
 
 **Prompt:**
 
@@ -60,7 +60,7 @@ https://thankyouai.com/i/70WOYR
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 28s · 21:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-02#drama-02)** · [Original post](https://x.com/Aiwithmaha/status/2112012480860000276)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-02#drama-02"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-02.webp" width="560" alt="Two women in black and white pass in a dim hallway – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/fa0dc1c0-49a8-480d-a228-c9ac0518ba3e
 
 **Prompt:**
 
@@ -73,7 +73,7 @@ Create a 28-second ultra-realistic cinematic Korean drama featuring two beautifu
 
 by [@Caden_Flux](https://x.com/Caden_Flux) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-03#drama-03)** · [Original post](https://x.com/Caden_Flux/status/2105228156085137501)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-03#drama-03"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-03.webp" width="560" alt="A runaway bride escapes in a red vintage car – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/fd739675-64d5-429e-ae04-ca5c0ff8db50
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -107,7 +107,7 @@ Important: No slow motion, no sad mood, no dramatic romance, no dialogue, no tex
 
 by [@Weeleey6](https://x.com/Weeleey6) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-04#drama-04)** · [Original post](https://x.com/Weeleey6/status/2095902275898126648)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-04#drama-04"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-04.webp" width="560" alt="A goodbye under rainy streetlights – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/e556df6b-7916-40fc-958a-fe80905394bb
 
 > 📎 Upload your own reference image or clip for this one.
 
@@ -137,7 +137,7 @@ RULES: References are appearance only, do not recreate. Keep both characters con
 
 by [@Lianaalane](https://x.com/Lianaalane) · 30s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-05#drama-05)** · [Original post](https://x.com/Lianaalane/status/2109876446089134244)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-05#drama-05"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-05.webp" width="560" alt="An injured dancer alone in a studio corner – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/3b07c12a-2c13-4400-8b01-c9e7ac1b46bc
 
 **Prompt:**
 
@@ -150,7 +150,7 @@ Create a 30-second, ultra-realistic cinematic video featuring a beautiful young 
 
 by [@Aiwithmaha](https://x.com/Aiwithmaha) · 24s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-06#drama-06)** · [Original post](https://x.com/Aiwithmaha/status/2110206983999726004)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-06#drama-06"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-06.webp" width="560" alt="A long day for a Korean office worker – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/d4933dda-fc1f-41ee-b755-76452aeb03e2
 
 **Prompt:**
 
@@ -163,7 +163,7 @@ Create a 24-second ultra-realistic cinematic video of a young Korean office woma
 
 by [@aiwithaayat](https://x.com/aiwithaayat) · 15s · 16:9 · **[▶ Run on APIKO](https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-07#drama-07)** · [Original post](https://x.com/aiwithaayat/status/2102607673501892691)
 
-<a href="https://apiko.app/seedance-2-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-seedance-2.0-prompts&utm_content=drama-07#drama-07"><img src="https://media.apiko.app/prompts/seedance-2-0-prompts/drama-07.webp" width="560" alt="A first glance in a seaside town – Seedance 2.0"></a>
+https://github.com/user-attachments/assets/3d2363e7-1705-4ce7-b9d5-2022f44c342d
 
 **Prompt:**
 
